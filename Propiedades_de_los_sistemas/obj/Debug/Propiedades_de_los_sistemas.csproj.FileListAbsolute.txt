@@ -1,0 +1,11 @@
+C:\Users\diego\source\repos\Propiedades_de_los_sistemas\Propiedades_de_los_sistemas\bin\Debug\Propiedades_de_los_sistemas.exe.config
+C:\Users\diego\source\repos\Propiedades_de_los_sistemas\Propiedades_de_los_sistemas\bin\Debug\Propiedades_de_los_sistemas.exe
+C:\Users\diego\source\repos\Propiedades_de_los_sistemas\Propiedades_de_los_sistemas\bin\Debug\Propiedades_de_los_sistemas.pdb
+C:\Users\diego\source\repos\Propiedades_de_los_sistemas\Propiedades_de_los_sistemas\obj\Debug\Propiedades_de_los_sistemas.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\Propiedades_de_los_sistemas\Propiedades_de_los_sistemas\obj\Debug\Propiedades_de_los_sistemas.Form1.resources
+C:\Users\diego\source\repos\Propiedades_de_los_sistemas\Propiedades_de_los_sistemas\obj\Debug\Propiedades_de_los_sistemas.Properties.Resources.resources
+C:\Users\diego\source\repos\Propiedades_de_los_sistemas\Propiedades_de_los_sistemas\obj\Debug\Propiedades_de_los_sistemas.csproj.GenerateResource.cache
+C:\Users\diego\source\repos\Propiedades_de_los_sistemas\Propiedades_de_los_sistemas\obj\Debug\Propiedades_de_los_sistemas.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\Propiedades_de_los_sistemas\Propiedades_de_los_sistemas\obj\Debug\Propiedades_de_los_sistemas.exe
+C:\Users\diego\source\repos\Propiedades_de_los_sistemas\Propiedades_de_los_sistemas\obj\Debug\Propiedades_de_los_sistemas.pdb
+C:\Users\diego\source\repos\Propiedades_de_los_sistemas\Propiedades_de_los_sistemas\obj\Debug\Propiedades_de_los_sistemas.csproj.SuggestedBindingRedirects.cache

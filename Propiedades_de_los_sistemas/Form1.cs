@@ -14,8 +14,9 @@ namespace Propiedades_de_los_sistemas
 {
     public partial class Form1 : Form
     {
-        ArrayList myAL;
         string ruta = "..\\..\\..\\..\\Propiedades_de_los_sistemas\\leader.txt";
+        ArrayList myAl;
+
         public Form1()
         {
             InitializeComponent();
@@ -38,7 +39,7 @@ namespace Propiedades_de_los_sistemas
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            label5.Visible = false;
+
         }
 
         private void btnCuestionario_Click(object sender, EventArgs e)
@@ -46,6 +47,7 @@ namespace Propiedades_de_los_sistemas
             panel2.Visible = false;
             panel3.Visible = true;
             btnCuestionario.Visible = false;
+            btnTerminar.Visible = true;
         }
 
         private void btnTerminar_Click(object sender, EventArgs e)
@@ -55,8 +57,7 @@ namespace Propiedades_de_los_sistemas
             int puntos = 0;
             //aqui calcular puntos acertados
 
-            
-            //codigo lindo
+            //Guardar nombre y puntaje
             StreamWriter sw = File.AppendText(ruta);
             try
             {
@@ -71,19 +72,30 @@ namespace Propiedades_de_los_sistemas
             {
                 MessageBox.Show("¡Prueba terminada!\n\nHemos registrado tu puntaje "+txtNombre.Text+", se mostrará a continuación en la tabla de clasificación.\n\nPuntaje: " + puntos.ToString(), "Gracias por jugar "+txtNombre.Text, MessageBoxButtons.OK, MessageBoxIcon.Asterisk);
             }
-
-
+            //reset visual
             txtNombre.Text = "";
             txtNombre.Enabled = true;
             btnIniciar.Enabled = true;
             pictureBox5.Visible = true;
             lblNombre.Visible = false;
             lblNombre.Text = "¡Hola!, ";
+            
+            //Actualizar tabla
+            myAl = new ArrayList();
+            TextReader read = new StreamReader(ruta);
+            string contend;
+            while ((contend = read.ReadLine()) != null)
+            {
+                myAl.Add(contend);
+            }
+            read.Close();
 
-            /*Actualizar tabla
-            lblPrimero.Text = primero;
-            lblSegundo.Text = segundo;
-            lblTercero.Text = tercero;*/
+            
+
+        }
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
         }
     }
 }

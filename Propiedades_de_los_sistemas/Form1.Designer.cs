@@ -46,6 +46,71 @@ namespace Propiedades_de_los_sistemas
             this.lblNombre = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
             this.panel2 = new System.Windows.Forms.Panel();
+            this.groupBox25 = new System.Windows.Forms.GroupBox();
+            this.label30 = new System.Windows.Forms.Label();
+            this.pictureBox30 = new System.Windows.Forms.PictureBox();
+            this.groupBox24 = new System.Windows.Forms.GroupBox();
+            this.label29 = new System.Windows.Forms.Label();
+            this.pictureBox29 = new System.Windows.Forms.PictureBox();
+            this.groupBox23 = new System.Windows.Forms.GroupBox();
+            this.label28 = new System.Windows.Forms.Label();
+            this.pictureBox28 = new System.Windows.Forms.PictureBox();
+            this.groupBox22 = new System.Windows.Forms.GroupBox();
+            this.label27 = new System.Windows.Forms.Label();
+            this.pictureBox27 = new System.Windows.Forms.PictureBox();
+            this.groupBox21 = new System.Windows.Forms.GroupBox();
+            this.label26 = new System.Windows.Forms.Label();
+            this.pictureBox26 = new System.Windows.Forms.PictureBox();
+            this.groupBox20 = new System.Windows.Forms.GroupBox();
+            this.label25 = new System.Windows.Forms.Label();
+            this.pictureBox25 = new System.Windows.Forms.PictureBox();
+            this.groupBox19 = new System.Windows.Forms.GroupBox();
+            this.label24 = new System.Windows.Forms.Label();
+            this.pictureBox24 = new System.Windows.Forms.PictureBox();
+            this.groupBox18 = new System.Windows.Forms.GroupBox();
+            this.label23 = new System.Windows.Forms.Label();
+            this.pictureBox23 = new System.Windows.Forms.PictureBox();
+            this.groupBox17 = new System.Windows.Forms.GroupBox();
+            this.label22 = new System.Windows.Forms.Label();
+            this.pictureBox22 = new System.Windows.Forms.PictureBox();
+            this.groupBox16 = new System.Windows.Forms.GroupBox();
+            this.label21 = new System.Windows.Forms.Label();
+            this.pictureBox21 = new System.Windows.Forms.PictureBox();
+            this.groupBox15 = new System.Windows.Forms.GroupBox();
+            this.label20 = new System.Windows.Forms.Label();
+            this.pictureBox20 = new System.Windows.Forms.PictureBox();
+            this.groupBox14 = new System.Windows.Forms.GroupBox();
+            this.label19 = new System.Windows.Forms.Label();
+            this.pictureBox19 = new System.Windows.Forms.PictureBox();
+            this.groupBox13 = new System.Windows.Forms.GroupBox();
+            this.label18 = new System.Windows.Forms.Label();
+            this.pictureBox18 = new System.Windows.Forms.PictureBox();
+            this.groupBox12 = new System.Windows.Forms.GroupBox();
+            this.label17 = new System.Windows.Forms.Label();
+            this.pictureBox17 = new System.Windows.Forms.PictureBox();
+            this.groupBox11 = new System.Windows.Forms.GroupBox();
+            this.label16 = new System.Windows.Forms.Label();
+            this.groupBox10 = new System.Windows.Forms.GroupBox();
+            this.label15 = new System.Windows.Forms.Label();
+            this.pictureBox15 = new System.Windows.Forms.PictureBox();
+            this.groupBox9 = new System.Windows.Forms.GroupBox();
+            this.label14 = new System.Windows.Forms.Label();
+            this.pictureBox14 = new System.Windows.Forms.PictureBox();
+            this.groupBox8 = new System.Windows.Forms.GroupBox();
+            this.label13 = new System.Windows.Forms.Label();
+            this.pictureBox13 = new System.Windows.Forms.PictureBox();
+            this.groupBox7 = new System.Windows.Forms.GroupBox();
+            this.label12 = new System.Windows.Forms.Label();
+            this.pictureBox12 = new System.Windows.Forms.PictureBox();
+            this.groupBox6 = new System.Windows.Forms.GroupBox();
+            this.label11 = new System.Windows.Forms.Label();
+            this.pictureBox11 = new System.Windows.Forms.PictureBox();
+            this.groupBox5 = new System.Windows.Forms.GroupBox();
+            this.label10 = new System.Windows.Forms.Label();
+            this.pictureBox10 = new System.Windows.Forms.PictureBox();
+            this.groupBox4 = new System.Windows.Forms.GroupBox();
+            this.label9 = new System.Windows.Forms.Label();
+            this.pictureBox9 = new System.Windows.Forms.PictureBox();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
             this.label8 = new System.Windows.Forms.Label();
             this.pictureBox8 = new System.Windows.Forms.PictureBox();
@@ -57,105 +122,6 @@ namespace Propiedades_de_los_sistemas
             this.pictureBox6 = new System.Windows.Forms.PictureBox();
             this.label3 = new System.Windows.Forms.Label();
             this.panel3 = new System.Windows.Forms.Panel();
-            this.btnTerminar = new System.Windows.Forms.Button();
-            this.label4 = new System.Windows.Forms.Label();
-            this.btnCuestionario = new System.Windows.Forms.Button();
-            this.pictureBox5 = new System.Windows.Forms.PictureBox();
-            this.groupBox4 = new System.Windows.Forms.GroupBox();
-            this.label9 = new System.Windows.Forms.Label();
-            this.pictureBox9 = new System.Windows.Forms.PictureBox();
-            this.groupBox5 = new System.Windows.Forms.GroupBox();
-            this.label10 = new System.Windows.Forms.Label();
-            this.pictureBox10 = new System.Windows.Forms.PictureBox();
-            this.groupBox6 = new System.Windows.Forms.GroupBox();
-            this.label11 = new System.Windows.Forms.Label();
-            this.pictureBox11 = new System.Windows.Forms.PictureBox();
-            this.groupBox7 = new System.Windows.Forms.GroupBox();
-            this.label12 = new System.Windows.Forms.Label();
-            this.pictureBox12 = new System.Windows.Forms.PictureBox();
-            this.groupBox8 = new System.Windows.Forms.GroupBox();
-            this.label13 = new System.Windows.Forms.Label();
-            this.pictureBox13 = new System.Windows.Forms.PictureBox();
-            this.groupBox9 = new System.Windows.Forms.GroupBox();
-            this.label14 = new System.Windows.Forms.Label();
-            this.pictureBox14 = new System.Windows.Forms.PictureBox();
-            this.groupBox10 = new System.Windows.Forms.GroupBox();
-            this.label15 = new System.Windows.Forms.Label();
-            this.pictureBox15 = new System.Windows.Forms.PictureBox();
-            this.groupBox11 = new System.Windows.Forms.GroupBox();
-            this.label16 = new System.Windows.Forms.Label();
-            this.pictureBox16 = new System.Windows.Forms.PictureBox();
-            this.groupBox12 = new System.Windows.Forms.GroupBox();
-            this.label17 = new System.Windows.Forms.Label();
-            this.pictureBox17 = new System.Windows.Forms.PictureBox();
-            this.groupBox13 = new System.Windows.Forms.GroupBox();
-            this.label18 = new System.Windows.Forms.Label();
-            this.pictureBox18 = new System.Windows.Forms.PictureBox();
-            this.groupBox14 = new System.Windows.Forms.GroupBox();
-            this.label19 = new System.Windows.Forms.Label();
-            this.pictureBox19 = new System.Windows.Forms.PictureBox();
-            this.groupBox15 = new System.Windows.Forms.GroupBox();
-            this.label20 = new System.Windows.Forms.Label();
-            this.pictureBox20 = new System.Windows.Forms.PictureBox();
-            this.groupBox16 = new System.Windows.Forms.GroupBox();
-            this.label21 = new System.Windows.Forms.Label();
-            this.pictureBox21 = new System.Windows.Forms.PictureBox();
-            this.groupBox17 = new System.Windows.Forms.GroupBox();
-            this.label22 = new System.Windows.Forms.Label();
-            this.pictureBox22 = new System.Windows.Forms.PictureBox();
-            this.groupBox18 = new System.Windows.Forms.GroupBox();
-            this.label23 = new System.Windows.Forms.Label();
-            this.pictureBox23 = new System.Windows.Forms.PictureBox();
-            this.groupBox19 = new System.Windows.Forms.GroupBox();
-            this.label24 = new System.Windows.Forms.Label();
-            this.pictureBox24 = new System.Windows.Forms.PictureBox();
-            this.groupBox20 = new System.Windows.Forms.GroupBox();
-            this.label25 = new System.Windows.Forms.Label();
-            this.pictureBox25 = new System.Windows.Forms.PictureBox();
-            this.groupBox21 = new System.Windows.Forms.GroupBox();
-            this.label26 = new System.Windows.Forms.Label();
-            this.pictureBox26 = new System.Windows.Forms.PictureBox();
-            this.groupBox22 = new System.Windows.Forms.GroupBox();
-            this.label27 = new System.Windows.Forms.Label();
-            this.pictureBox27 = new System.Windows.Forms.PictureBox();
-            this.groupBox23 = new System.Windows.Forms.GroupBox();
-            this.label28 = new System.Windows.Forms.Label();
-            this.pictureBox28 = new System.Windows.Forms.PictureBox();
-            this.groupBox24 = new System.Windows.Forms.GroupBox();
-            this.label29 = new System.Windows.Forms.Label();
-            this.pictureBox29 = new System.Windows.Forms.PictureBox();
-            this.groupBox25 = new System.Windows.Forms.GroupBox();
-            this.label30 = new System.Windows.Forms.Label();
-            this.pictureBox30 = new System.Windows.Forms.PictureBox();
-            this.label31 = new System.Windows.Forms.Label();
-            this.combo1 = new System.Windows.Forms.ComboBox();
-            this.label32 = new System.Windows.Forms.Label();
-            this.combo2 = new System.Windows.Forms.ComboBox();
-            this.label33 = new System.Windows.Forms.Label();
-            this.combo4 = new System.Windows.Forms.ComboBox();
-            this.label34 = new System.Windows.Forms.Label();
-            this.combo5 = new System.Windows.Forms.ComboBox();
-            this.label35 = new System.Windows.Forms.Label();
-            this.combo6 = new System.Windows.Forms.ComboBox();
-            this.label36 = new System.Windows.Forms.Label();
-            this.combo7 = new System.Windows.Forms.ComboBox();
-            this.label37 = new System.Windows.Forms.Label();
-            this.combo3 = new System.Windows.Forms.ComboBox();
-            this.combo10 = new System.Windows.Forms.ComboBox();
-            this.combo14 = new System.Windows.Forms.ComboBox();
-            this.label38 = new System.Windows.Forms.Label();
-            this.combo13 = new System.Windows.Forms.ComboBox();
-            this.label39 = new System.Windows.Forms.Label();
-            this.combo12 = new System.Windows.Forms.ComboBox();
-            this.label40 = new System.Windows.Forms.Label();
-            this.combo11 = new System.Windows.Forms.ComboBox();
-            this.label41 = new System.Windows.Forms.Label();
-            this.label42 = new System.Windows.Forms.Label();
-            this.combo9 = new System.Windows.Forms.ComboBox();
-            this.label43 = new System.Windows.Forms.Label();
-            this.combo8 = new System.Windows.Forms.ComboBox();
-            this.label44 = new System.Windows.Forms.Label();
-            this.label45 = new System.Windows.Forms.Label();
             this.combo22 = new System.Windows.Forms.ComboBox();
             this.label46 = new System.Windows.Forms.Label();
             this.combo17 = new System.Windows.Forms.ComboBox();
@@ -172,12 +138,94 @@ namespace Propiedades_de_los_sistemas
             this.label52 = new System.Windows.Forms.Label();
             this.combo15 = new System.Windows.Forms.ComboBox();
             this.label53 = new System.Windows.Forms.Label();
+            this.label45 = new System.Windows.Forms.Label();
+            this.combo10 = new System.Windows.Forms.ComboBox();
+            this.combo14 = new System.Windows.Forms.ComboBox();
+            this.label38 = new System.Windows.Forms.Label();
+            this.combo13 = new System.Windows.Forms.ComboBox();
+            this.label39 = new System.Windows.Forms.Label();
+            this.combo12 = new System.Windows.Forms.ComboBox();
+            this.label40 = new System.Windows.Forms.Label();
+            this.combo11 = new System.Windows.Forms.ComboBox();
+            this.label41 = new System.Windows.Forms.Label();
+            this.label42 = new System.Windows.Forms.Label();
+            this.combo9 = new System.Windows.Forms.ComboBox();
+            this.label43 = new System.Windows.Forms.Label();
+            this.combo8 = new System.Windows.Forms.ComboBox();
+            this.label44 = new System.Windows.Forms.Label();
+            this.combo3 = new System.Windows.Forms.ComboBox();
+            this.combo7 = new System.Windows.Forms.ComboBox();
+            this.label37 = new System.Windows.Forms.Label();
+            this.combo6 = new System.Windows.Forms.ComboBox();
+            this.label36 = new System.Windows.Forms.Label();
+            this.combo5 = new System.Windows.Forms.ComboBox();
+            this.label35 = new System.Windows.Forms.Label();
+            this.combo4 = new System.Windows.Forms.ComboBox();
+            this.label34 = new System.Windows.Forms.Label();
+            this.label33 = new System.Windows.Forms.Label();
+            this.combo2 = new System.Windows.Forms.ComboBox();
+            this.label32 = new System.Windows.Forms.Label();
+            this.combo1 = new System.Windows.Forms.ComboBox();
+            this.label31 = new System.Windows.Forms.Label();
+            this.label4 = new System.Windows.Forms.Label();
+            this.btnTerminar = new System.Windows.Forms.Button();
+            this.btnCuestionario = new System.Windows.Forms.Button();
+            this.pictureBox5 = new System.Windows.Forms.PictureBox();
+            this.combo25 = new System.Windows.Forms.ComboBox();
+            this.label54 = new System.Windows.Forms.Label();
+            this.combo24 = new System.Windows.Forms.ComboBox();
+            this.label55 = new System.Windows.Forms.Label();
+            this.combo23 = new System.Windows.Forms.ComboBox();
+            this.label56 = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.panel2.SuspendLayout();
+            this.groupBox25.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox30)).BeginInit();
+            this.groupBox24.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox29)).BeginInit();
+            this.groupBox23.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox28)).BeginInit();
+            this.groupBox22.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox27)).BeginInit();
+            this.groupBox21.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox26)).BeginInit();
+            this.groupBox20.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox25)).BeginInit();
+            this.groupBox19.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox24)).BeginInit();
+            this.groupBox18.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox23)).BeginInit();
+            this.groupBox17.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox22)).BeginInit();
+            this.groupBox16.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox21)).BeginInit();
+            this.groupBox15.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox20)).BeginInit();
+            this.groupBox14.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox19)).BeginInit();
+            this.groupBox13.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox18)).BeginInit();
+            this.groupBox12.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox17)).BeginInit();
+            this.groupBox11.SuspendLayout();
+            this.groupBox10.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox15)).BeginInit();
+            this.groupBox9.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox14)).BeginInit();
+            this.groupBox8.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox13)).BeginInit();
+            this.groupBox7.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox12)).BeginInit();
+            this.groupBox6.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox11)).BeginInit();
+            this.groupBox5.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox10)).BeginInit();
+            this.groupBox4.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).BeginInit();
             this.groupBox3.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).BeginInit();
             this.groupBox2.SuspendLayout();
@@ -186,50 +234,6 @@ namespace Propiedades_de_los_sistemas
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).BeginInit();
             this.panel3.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
-            this.groupBox4.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).BeginInit();
-            this.groupBox5.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox10)).BeginInit();
-            this.groupBox6.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox11)).BeginInit();
-            this.groupBox7.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox12)).BeginInit();
-            this.groupBox8.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox13)).BeginInit();
-            this.groupBox9.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox14)).BeginInit();
-            this.groupBox10.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox15)).BeginInit();
-            this.groupBox11.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox16)).BeginInit();
-            this.groupBox12.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox17)).BeginInit();
-            this.groupBox13.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox18)).BeginInit();
-            this.groupBox14.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox19)).BeginInit();
-            this.groupBox15.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox20)).BeginInit();
-            this.groupBox16.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox21)).BeginInit();
-            this.groupBox17.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox22)).BeginInit();
-            this.groupBox18.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox23)).BeginInit();
-            this.groupBox19.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox24)).BeginInit();
-            this.groupBox20.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox25)).BeginInit();
-            this.groupBox21.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox26)).BeginInit();
-            this.groupBox22.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox27)).BeginInit();
-            this.groupBox23.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox28)).BeginInit();
-            this.groupBox24.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox29)).BeginInit();
-            this.groupBox25.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox30)).BeginInit();
             this.SuspendLayout();
             // 
             // panel1
@@ -480,6 +484,799 @@ namespace Propiedades_de_los_sistemas
             this.panel2.TabIndex = 5;
             this.panel2.Visible = false;
             // 
+            // groupBox25
+            // 
+            this.groupBox25.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.groupBox25.Controls.Add(this.label30);
+            this.groupBox25.Controls.Add(this.pictureBox30);
+            this.groupBox25.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.groupBox25.Location = new System.Drawing.Point(21, 8121);
+            this.groupBox25.Name = "groupBox25";
+            this.groupBox25.Size = new System.Drawing.Size(932, 333);
+            this.groupBox25.TabIndex = 33;
+            this.groupBox25.TabStop = false;
+            this.groupBox25.Text = "25) Administración Buckley";
+            // 
+            // label30
+            // 
+            this.label30.AutoSize = true;
+            this.label30.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label30.Location = new System.Drawing.Point(6, 28);
+            this.label30.Name = "label30";
+            this.label30.Size = new System.Drawing.Size(1385, 42);
+            this.label30.TabIndex = 9;
+            this.label30.Text = resources.GetString("label30.Text");
+            // 
+            // pictureBox30
+            // 
+            this.pictureBox30.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.pictureBox30.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox30.Image")));
+            this.pictureBox30.Location = new System.Drawing.Point(303, 117);
+            this.pictureBox30.Name = "pictureBox30";
+            this.pictureBox30.Size = new System.Drawing.Size(250, 199);
+            this.pictureBox30.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
+            this.pictureBox30.TabIndex = 8;
+            this.pictureBox30.TabStop = false;
+            // 
+            // groupBox24
+            // 
+            this.groupBox24.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.groupBox24.Controls.Add(this.label29);
+            this.groupBox24.Controls.Add(this.pictureBox29);
+            this.groupBox24.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.groupBox24.Location = new System.Drawing.Point(21, 7750);
+            this.groupBox24.Name = "groupBox24";
+            this.groupBox24.Size = new System.Drawing.Size(932, 351);
+            this.groupBox24.TabIndex = 32;
+            this.groupBox24.TabStop = false;
+            this.groupBox24.Text = "24) Subsistemas de una empresa";
+            // 
+            // label29
+            // 
+            this.label29.AutoSize = true;
+            this.label29.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label29.Location = new System.Drawing.Point(6, 28);
+            this.label29.Name = "label29";
+            this.label29.Size = new System.Drawing.Size(864, 21);
+            this.label29.TabIndex = 9;
+            this.label29.Text = "Dentro de una empresa existen una serie de subsistemas como lo son el psicosocial" +
+    ", técnico y el administrativo.";
+            // 
+            // pictureBox29
+            // 
+            this.pictureBox29.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.pictureBox29.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox29.Image")));
+            this.pictureBox29.Location = new System.Drawing.Point(303, 117);
+            this.pictureBox29.Name = "pictureBox29";
+            this.pictureBox29.Size = new System.Drawing.Size(250, 199);
+            this.pictureBox29.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
+            this.pictureBox29.TabIndex = 8;
+            this.pictureBox29.TabStop = false;
+            // 
+            // groupBox23
+            // 
+            this.groupBox23.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.groupBox23.Controls.Add(this.label28);
+            this.groupBox23.Controls.Add(this.pictureBox28);
+            this.groupBox23.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.groupBox23.Location = new System.Drawing.Point(21, 7379);
+            this.groupBox23.Name = "groupBox23";
+            this.groupBox23.Size = new System.Drawing.Size(932, 351);
+            this.groupBox23.TabIndex = 31;
+            this.groupBox23.TabStop = false;
+            this.groupBox23.Text = "23) Una organización";
+            // 
+            // label28
+            // 
+            this.label28.AutoSize = true;
+            this.label28.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label28.Location = new System.Drawing.Point(6, 28);
+            this.label28.Name = "label28";
+            this.label28.Size = new System.Drawing.Size(1317, 21);
+            this.label28.TabIndex = 9;
+            this.label28.Text = "La organización es una inmensa capacidad de movimiento generador que hace posible" +
+    " lo imposible, es decir, genera emergencias, transforma la realidad y la conserv" +
+    "a.";
+            // 
+            // pictureBox28
+            // 
+            this.pictureBox28.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.pictureBox28.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox28.Image")));
+            this.pictureBox28.Location = new System.Drawing.Point(303, 117);
+            this.pictureBox28.Name = "pictureBox28";
+            this.pictureBox28.Size = new System.Drawing.Size(250, 199);
+            this.pictureBox28.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
+            this.pictureBox28.TabIndex = 8;
+            this.pictureBox28.TabStop = false;
+            // 
+            // groupBox22
+            // 
+            this.groupBox22.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.groupBox22.Controls.Add(this.label27);
+            this.groupBox22.Controls.Add(this.pictureBox27);
+            this.groupBox22.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.groupBox22.Location = new System.Drawing.Point(21, 7005);
+            this.groupBox22.Name = "groupBox22";
+            this.groupBox22.Size = new System.Drawing.Size(932, 351);
+            this.groupBox22.TabIndex = 30;
+            this.groupBox22.TabStop = false;
+            this.groupBox22.Text = "22) Tipos de retroalimentación";
+            // 
+            // label27
+            // 
+            this.label27.AutoSize = true;
+            this.label27.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label27.Location = new System.Drawing.Point(6, 28);
+            this.label27.Name = "label27";
+            this.label27.Size = new System.Drawing.Size(1344, 42);
+            this.label27.TabIndex = 9;
+            this.label27.Text = resources.GetString("label27.Text");
+            // 
+            // pictureBox27
+            // 
+            this.pictureBox27.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.pictureBox27.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox27.Image")));
+            this.pictureBox27.Location = new System.Drawing.Point(303, 117);
+            this.pictureBox27.Name = "pictureBox27";
+            this.pictureBox27.Size = new System.Drawing.Size(250, 199);
+            this.pictureBox27.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
+            this.pictureBox27.TabIndex = 8;
+            this.pictureBox27.TabStop = false;
+            // 
+            // groupBox21
+            // 
+            this.groupBox21.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.groupBox21.Controls.Add(this.label26);
+            this.groupBox21.Controls.Add(this.pictureBox26);
+            this.groupBox21.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.groupBox21.Location = new System.Drawing.Point(21, 6637);
+            this.groupBox21.Name = "groupBox21";
+            this.groupBox21.Size = new System.Drawing.Size(932, 351);
+            this.groupBox21.TabIndex = 29;
+            this.groupBox21.TabStop = false;
+            this.groupBox21.Text = "21) Interdependencias internas";
+            // 
+            // label26
+            // 
+            this.label26.AutoSize = true;
+            this.label26.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label26.Location = new System.Drawing.Point(6, 28);
+            this.label26.Name = "label26";
+            this.label26.Size = new System.Drawing.Size(1302, 42);
+            this.label26.TabIndex = 9;
+            this.label26.Text = resources.GetString("label26.Text");
+            // 
+            // pictureBox26
+            // 
+            this.pictureBox26.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.pictureBox26.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox26.Image")));
+            this.pictureBox26.Location = new System.Drawing.Point(303, 117);
+            this.pictureBox26.Name = "pictureBox26";
+            this.pictureBox26.Size = new System.Drawing.Size(250, 199);
+            this.pictureBox26.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
+            this.pictureBox26.TabIndex = 8;
+            this.pictureBox26.TabStop = false;
+            // 
+            // groupBox20
+            // 
+            this.groupBox20.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.groupBox20.Controls.Add(this.label25);
+            this.groupBox20.Controls.Add(this.pictureBox25);
+            this.groupBox20.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.groupBox20.Location = new System.Drawing.Point(21, 6266);
+            this.groupBox20.Name = "groupBox20";
+            this.groupBox20.Size = new System.Drawing.Size(932, 351);
+            this.groupBox20.TabIndex = 28;
+            this.groupBox20.TabStop = false;
+            this.groupBox20.Text = "20) Morfogenesis";
+            // 
+            // label25
+            // 
+            this.label25.AutoSize = true;
+            this.label25.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label25.Location = new System.Drawing.Point(6, 28);
+            this.label25.Name = "label25";
+            this.label25.Size = new System.Drawing.Size(1326, 42);
+            this.label25.TabIndex = 9;
+            this.label25.Text = resources.GetString("label25.Text");
+            // 
+            // pictureBox25
+            // 
+            this.pictureBox25.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.pictureBox25.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox25.Image")));
+            this.pictureBox25.Location = new System.Drawing.Point(303, 117);
+            this.pictureBox25.Name = "pictureBox25";
+            this.pictureBox25.Size = new System.Drawing.Size(250, 199);
+            this.pictureBox25.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
+            this.pictureBox25.TabIndex = 8;
+            this.pictureBox25.TabStop = false;
+            // 
+            // groupBox19
+            // 
+            this.groupBox19.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.groupBox19.Controls.Add(this.label24);
+            this.groupBox19.Controls.Add(this.pictureBox24);
+            this.groupBox19.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.groupBox19.Location = new System.Drawing.Point(21, 5894);
+            this.groupBox19.Name = "groupBox19";
+            this.groupBox19.Size = new System.Drawing.Size(932, 351);
+            this.groupBox19.TabIndex = 27;
+            this.groupBox19.TabStop = false;
+            this.groupBox19.Text = "19) Homeostasis";
+            // 
+            // label24
+            // 
+            this.label24.AutoSize = true;
+            this.label24.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label24.Location = new System.Drawing.Point(6, 28);
+            this.label24.Name = "label24";
+            this.label24.Size = new System.Drawing.Size(849, 21);
+            this.label24.TabIndex = 9;
+            this.label24.Text = "La homeostasis es la propiedad de un sistema que define su nivel de respuesta y d" +
+    "e adaptación al contexto.";
+            // 
+            // pictureBox24
+            // 
+            this.pictureBox24.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.pictureBox24.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox24.Image")));
+            this.pictureBox24.Location = new System.Drawing.Point(303, 117);
+            this.pictureBox24.Name = "pictureBox24";
+            this.pictureBox24.Size = new System.Drawing.Size(250, 199);
+            this.pictureBox24.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
+            this.pictureBox24.TabIndex = 8;
+            this.pictureBox24.TabStop = false;
+            // 
+            // groupBox18
+            // 
+            this.groupBox18.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.groupBox18.Controls.Add(this.label23);
+            this.groupBox18.Controls.Add(this.pictureBox23);
+            this.groupBox18.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.groupBox18.Location = new System.Drawing.Point(21, 5527);
+            this.groupBox18.Name = "groupBox18";
+            this.groupBox18.Size = new System.Drawing.Size(932, 351);
+            this.groupBox18.TabIndex = 26;
+            this.groupBox18.TabStop = false;
+            this.groupBox18.Text = "18) Entradas de un sistema";
+            // 
+            // label23
+            // 
+            this.label23.AutoSize = true;
+            this.label23.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label23.Location = new System.Drawing.Point(6, 28);
+            this.label23.Name = "label23";
+            this.label23.Size = new System.Drawing.Size(1316, 42);
+            this.label23.TabIndex = 9;
+            this.label23.Text = resources.GetString("label23.Text");
+            // 
+            // pictureBox23
+            // 
+            this.pictureBox23.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.pictureBox23.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox23.Image")));
+            this.pictureBox23.Location = new System.Drawing.Point(303, 117);
+            this.pictureBox23.Name = "pictureBox23";
+            this.pictureBox23.Size = new System.Drawing.Size(250, 199);
+            this.pictureBox23.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
+            this.pictureBox23.TabIndex = 8;
+            this.pictureBox23.TabStop = false;
+            // 
+            // groupBox17
+            // 
+            this.groupBox17.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.groupBox17.Controls.Add(this.label22);
+            this.groupBox17.Controls.Add(this.pictureBox22);
+            this.groupBox17.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.groupBox17.Location = new System.Drawing.Point(21, 5153);
+            this.groupBox17.Name = "groupBox17";
+            this.groupBox17.Size = new System.Drawing.Size(932, 351);
+            this.groupBox17.TabIndex = 25;
+            this.groupBox17.TabStop = false;
+            this.groupBox17.Text = "17) La energia en un sistema";
+            // 
+            // label22
+            // 
+            this.label22.AutoSize = true;
+            this.label22.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label22.Location = new System.Drawing.Point(6, 28);
+            this.label22.Name = "label22";
+            this.label22.Size = new System.Drawing.Size(1332, 21);
+            this.label22.TabIndex = 9;
+            this.label22.Text = "La Energía es la entrada al sistema o resultados de procesos que hacen que el sis" +
+    "tema continúe su comportamiento o realice cambios de acuerdo a los cambios que s" +
+    "ufra.";
+            // 
+            // pictureBox22
+            // 
+            this.pictureBox22.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.pictureBox22.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox22.Image")));
+            this.pictureBox22.Location = new System.Drawing.Point(303, 117);
+            this.pictureBox22.Name = "pictureBox22";
+            this.pictureBox22.Size = new System.Drawing.Size(250, 199);
+            this.pictureBox22.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
+            this.pictureBox22.TabIndex = 8;
+            this.pictureBox22.TabStop = false;
+            // 
+            // groupBox16
+            // 
+            this.groupBox16.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.groupBox16.Controls.Add(this.label21);
+            this.groupBox16.Controls.Add(this.pictureBox21);
+            this.groupBox16.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.groupBox16.Location = new System.Drawing.Point(21, 4778);
+            this.groupBox16.Name = "groupBox16";
+            this.groupBox16.Size = new System.Drawing.Size(932, 351);
+            this.groupBox16.TabIndex = 24;
+            this.groupBox16.TabStop = false;
+            this.groupBox16.Text = "16) Cibernetica";
+            // 
+            // label21
+            // 
+            this.label21.AutoSize = true;
+            this.label21.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label21.Location = new System.Drawing.Point(6, 28);
+            this.label21.Name = "label21";
+            this.label21.Size = new System.Drawing.Size(1363, 21);
+            this.label21.TabIndex = 9;
+            this.label21.Text = "La cibernética viene del griego Kybernetes. La cibernética es el campo interdisci" +
+    "plinario de los procesos de control y de comunicación tanto en máquinas como en " +
+    "seres vivos. ";
+            // 
+            // pictureBox21
+            // 
+            this.pictureBox21.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.pictureBox21.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox21.Image")));
+            this.pictureBox21.Location = new System.Drawing.Point(303, 117);
+            this.pictureBox21.Name = "pictureBox21";
+            this.pictureBox21.Size = new System.Drawing.Size(250, 199);
+            this.pictureBox21.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
+            this.pictureBox21.TabIndex = 8;
+            this.pictureBox21.TabStop = false;
+            // 
+            // groupBox15
+            // 
+            this.groupBox15.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.groupBox15.Controls.Add(this.label20);
+            this.groupBox15.Controls.Add(this.pictureBox20);
+            this.groupBox15.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.groupBox15.Location = new System.Drawing.Point(21, 4414);
+            this.groupBox15.Name = "groupBox15";
+            this.groupBox15.Size = new System.Drawing.Size(932, 351);
+            this.groupBox15.TabIndex = 23;
+            this.groupBox15.TabStop = false;
+            this.groupBox15.Text = "15) Caja negra";
+            // 
+            // label20
+            // 
+            this.label20.AutoSize = true;
+            this.label20.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label20.Location = new System.Drawing.Point(6, 28);
+            this.label20.Name = "label20";
+            this.label20.Size = new System.Drawing.Size(1161, 42);
+            this.label20.TabIndex = 9;
+            this.label20.Text = "La caja negra se utiliza para representar a los sistemas cuando se sabe que eleme" +
+    "ntos o cosas los componen, pero se reconoce que a determinadas \r\nentradas corres" +
+    "ponden determinadas salidas.";
+            // 
+            // pictureBox20
+            // 
+            this.pictureBox20.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.pictureBox20.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox20.Image")));
+            this.pictureBox20.Location = new System.Drawing.Point(303, 117);
+            this.pictureBox20.Name = "pictureBox20";
+            this.pictureBox20.Size = new System.Drawing.Size(250, 96);
+            this.pictureBox20.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
+            this.pictureBox20.TabIndex = 8;
+            this.pictureBox20.TabStop = false;
+            // 
+            // groupBox14
+            // 
+            this.groupBox14.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.groupBox14.Controls.Add(this.label19);
+            this.groupBox14.Controls.Add(this.pictureBox19);
+            this.groupBox14.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.groupBox14.Location = new System.Drawing.Point(21, 4025);
+            this.groupBox14.Name = "groupBox14";
+            this.groupBox14.Size = new System.Drawing.Size(932, 369);
+            this.groupBox14.TabIndex = 22;
+            this.groupBox14.TabStop = false;
+            this.groupBox14.Text = "14) Conceptos básicos";
+            // 
+            // label19
+            // 
+            this.label19.AutoSize = true;
+            this.label19.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label19.Location = new System.Drawing.Point(6, 28);
+            this.label19.Name = "label19";
+            this.label19.Size = new System.Drawing.Size(1032, 126);
+            this.label19.TabIndex = 9;
+            this.label19.Text = "La teoría General de sistemas introduce términos interdisciplinarios o conceptos " +
+    "básicos universales, algunos de estos conceptos son:\r\n - Adaptabilidad\r\n - Ambie" +
+    "nte\r\n - Armonía\r\n - Atributo\r\netc..";
+            // 
+            // pictureBox19
+            // 
+            this.pictureBox19.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.pictureBox19.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox19.Image")));
+            this.pictureBox19.Location = new System.Drawing.Point(303, 154);
+            this.pictureBox19.Name = "pictureBox19";
+            this.pictureBox19.Size = new System.Drawing.Size(250, 96);
+            this.pictureBox19.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
+            this.pictureBox19.TabIndex = 8;
+            this.pictureBox19.TabStop = false;
+            // 
+            // groupBox13
+            // 
+            this.groupBox13.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.groupBox13.Controls.Add(this.label18);
+            this.groupBox13.Controls.Add(this.pictureBox18);
+            this.groupBox13.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.groupBox13.Location = new System.Drawing.Point(21, 3496);
+            this.groupBox13.Name = "groupBox13";
+            this.groupBox13.Size = new System.Drawing.Size(932, 268);
+            this.groupBox13.TabIndex = 21;
+            this.groupBox13.TabStop = false;
+            this.groupBox13.Text = "13) Niveles de jerarquia";
+            // 
+            // label18
+            // 
+            this.label18.AutoSize = true;
+            this.label18.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label18.Location = new System.Drawing.Point(6, 28);
+            this.label18.Name = "label18";
+            this.label18.Size = new System.Drawing.Size(630, 210);
+            this.label18.TabIndex = 9;
+            this.label18.Text = resources.GetString("label18.Text");
+            // 
+            // pictureBox18
+            // 
+            this.pictureBox18.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.pictureBox18.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox18.Image")));
+            this.pictureBox18.Location = new System.Drawing.Point(655, 48);
+            this.pictureBox18.Name = "pictureBox18";
+            this.pictureBox18.Size = new System.Drawing.Size(250, 184);
+            this.pictureBox18.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
+            this.pictureBox18.TabIndex = 8;
+            this.pictureBox18.TabStop = false;
+            // 
+            // groupBox12
+            // 
+            this.groupBox12.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.groupBox12.Controls.Add(this.label17);
+            this.groupBox12.Controls.Add(this.pictureBox17);
+            this.groupBox12.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.groupBox12.Location = new System.Drawing.Point(21, 3277);
+            this.groupBox12.Name = "groupBox12";
+            this.groupBox12.Size = new System.Drawing.Size(932, 204);
+            this.groupBox12.TabIndex = 20;
+            this.groupBox12.TabStop = false;
+            this.groupBox12.Text = "12) Clasificación de los sistemas";
+            // 
+            // label17
+            // 
+            this.label17.AutoSize = true;
+            this.label17.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label17.Location = new System.Drawing.Point(6, 28);
+            this.label17.Name = "label17";
+            this.label17.Size = new System.Drawing.Size(538, 84);
+            this.label17.TabIndex = 9;
+            this.label17.Text = resources.GetString("label17.Text");
+            // 
+            // pictureBox17
+            // 
+            this.pictureBox17.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.pictureBox17.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox17.Image")));
+            this.pictureBox17.Location = new System.Drawing.Point(579, -16);
+            this.pictureBox17.Name = "pictureBox17";
+            this.pictureBox17.Size = new System.Drawing.Size(250, 250);
+            this.pictureBox17.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
+            this.pictureBox17.TabIndex = 8;
+            this.pictureBox17.TabStop = false;
+            // 
+            // groupBox11
+            // 
+            this.groupBox11.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.groupBox11.Controls.Add(this.label16);
+            this.groupBox11.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.groupBox11.Location = new System.Drawing.Point(21, 3132);
+            this.groupBox11.Name = "groupBox11";
+            this.groupBox11.Size = new System.Drawing.Size(932, 134);
+            this.groupBox11.TabIndex = 19;
+            this.groupBox11.TabStop = false;
+            this.groupBox11.Text = "11) Estrategias para la investigación";
+            // 
+            // label16
+            // 
+            this.label16.AutoSize = true;
+            this.label16.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label16.Location = new System.Drawing.Point(6, 28);
+            this.label16.Name = "label16";
+            this.label16.Size = new System.Drawing.Size(1213, 63);
+            this.label16.TabIndex = 9;
+            this.label16.Text = resources.GetString("label16.Text");
+            // 
+            // groupBox10
+            // 
+            this.groupBox10.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.groupBox10.Controls.Add(this.label15);
+            this.groupBox10.Controls.Add(this.pictureBox15);
+            this.groupBox10.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.groupBox10.Location = new System.Drawing.Point(21, 2868);
+            this.groupBox10.Name = "groupBox10";
+            this.groupBox10.Size = new System.Drawing.Size(932, 248);
+            this.groupBox10.TabIndex = 18;
+            this.groupBox10.TabStop = false;
+            this.groupBox10.Text = "10) Tipos generales de sistemas";
+            // 
+            // label15
+            // 
+            this.label15.AutoSize = true;
+            this.label15.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label15.Location = new System.Drawing.Point(6, 28);
+            this.label15.Name = "label15";
+            this.label15.Size = new System.Drawing.Size(607, 84);
+            this.label15.TabIndex = 9;
+            this.label15.Text = "Existen tres tipos generales de sistemas que encontramos en la cotidianidad: \r\n -" +
+    " Los sistemas naturales \r\n - Los sistemas artificiales \r\n - La combinación de am" +
+    "bos se conoce como sistemas compuestos";
+            // 
+            // pictureBox15
+            // 
+            this.pictureBox15.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.pictureBox15.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox15.Image")));
+            this.pictureBox15.Location = new System.Drawing.Point(632, 28);
+            this.pictureBox15.Name = "pictureBox15";
+            this.pictureBox15.Size = new System.Drawing.Size(250, 202);
+            this.pictureBox15.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
+            this.pictureBox15.TabIndex = 8;
+            this.pictureBox15.TabStop = false;
+            // 
+            // groupBox9
+            // 
+            this.groupBox9.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.groupBox9.Controls.Add(this.label14);
+            this.groupBox9.Controls.Add(this.pictureBox14);
+            this.groupBox9.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.groupBox9.Location = new System.Drawing.Point(21, 2589);
+            this.groupBox9.Name = "groupBox9";
+            this.groupBox9.Size = new System.Drawing.Size(932, 262);
+            this.groupBox9.TabIndex = 18;
+            this.groupBox9.TabStop = false;
+            this.groupBox9.Text = "9) Elementos clave";
+            // 
+            // label14
+            // 
+            this.label14.AutoSize = true;
+            this.label14.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label14.Location = new System.Drawing.Point(6, 28);
+            this.label14.Name = "label14";
+            this.label14.Size = new System.Drawing.Size(711, 168);
+            this.label14.TabIndex = 9;
+            this.label14.Text = resources.GetString("label14.Text");
+            // 
+            // pictureBox14
+            // 
+            this.pictureBox14.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.pictureBox14.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox14.Image")));
+            this.pictureBox14.Location = new System.Drawing.Point(744, 39);
+            this.pictureBox14.Name = "pictureBox14";
+            this.pictureBox14.Size = new System.Drawing.Size(250, 188);
+            this.pictureBox14.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
+            this.pictureBox14.TabIndex = 8;
+            this.pictureBox14.TabStop = false;
+            // 
+            // groupBox8
+            // 
+            this.groupBox8.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.groupBox8.Controls.Add(this.label13);
+            this.groupBox8.Controls.Add(this.pictureBox13);
+            this.groupBox8.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.groupBox8.Location = new System.Drawing.Point(21, 2292);
+            this.groupBox8.Name = "groupBox8";
+            this.groupBox8.Size = new System.Drawing.Size(932, 281);
+            this.groupBox8.TabIndex = 17;
+            this.groupBox8.TabStop = false;
+            this.groupBox8.Text = "8) Caracteristicas de los objetos de un sistema";
+            // 
+            // label13
+            // 
+            this.label13.AutoSize = true;
+            this.label13.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label13.Location = new System.Drawing.Point(6, 27);
+            this.label13.Name = "label13";
+            this.label13.Size = new System.Drawing.Size(1011, 84);
+            this.label13.TabIndex = 9;
+            this.label13.Text = resources.GetString("label13.Text");
+            // 
+            // pictureBox13
+            // 
+            this.pictureBox13.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.pictureBox13.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox13.Image")));
+            this.pictureBox13.Location = new System.Drawing.Point(319, 114);
+            this.pictureBox13.Name = "pictureBox13";
+            this.pictureBox13.Size = new System.Drawing.Size(250, 149);
+            this.pictureBox13.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
+            this.pictureBox13.TabIndex = 8;
+            this.pictureBox13.TabStop = false;
+            // 
+            // groupBox7
+            // 
+            this.groupBox7.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.groupBox7.Controls.Add(this.label12);
+            this.groupBox7.Controls.Add(this.pictureBox12);
+            this.groupBox7.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.groupBox7.Location = new System.Drawing.Point(21, 1914);
+            this.groupBox7.Name = "groupBox7";
+            this.groupBox7.Size = new System.Drawing.Size(932, 372);
+            this.groupBox7.TabIndex = 16;
+            this.groupBox7.TabStop = false;
+            this.groupBox7.Text = "7) Subsistemas";
+            // 
+            // label12
+            // 
+            this.label12.AutoSize = true;
+            this.label12.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label12.Location = new System.Drawing.Point(6, 28);
+            this.label12.Name = "label12";
+            this.label12.Size = new System.Drawing.Size(1478, 42);
+            this.label12.TabIndex = 9;
+            this.label12.Text = resources.GetString("label12.Text");
+            // 
+            // pictureBox12
+            // 
+            this.pictureBox12.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.pictureBox12.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox12.Image")));
+            this.pictureBox12.Location = new System.Drawing.Point(304, 73);
+            this.pictureBox12.Name = "pictureBox12";
+            this.pictureBox12.Size = new System.Drawing.Size(250, 289);
+            this.pictureBox12.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
+            this.pictureBox12.TabIndex = 8;
+            this.pictureBox12.TabStop = false;
+            // 
+            // groupBox6
+            // 
+            this.groupBox6.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.groupBox6.Controls.Add(this.label11);
+            this.groupBox6.Controls.Add(this.pictureBox11);
+            this.groupBox6.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.groupBox6.Location = new System.Drawing.Point(21, 1588);
+            this.groupBox6.Name = "groupBox6";
+            this.groupBox6.Size = new System.Drawing.Size(932, 309);
+            this.groupBox6.TabIndex = 15;
+            this.groupBox6.TabStop = false;
+            this.groupBox6.Text = "6) ¿Qué es un sistema?";
+            // 
+            // label11
+            // 
+            this.label11.AutoSize = true;
+            this.label11.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label11.Location = new System.Drawing.Point(6, 28);
+            this.label11.Name = "label11";
+            this.label11.Size = new System.Drawing.Size(1279, 42);
+            this.label11.TabIndex = 9;
+            this.label11.Text = resources.GetString("label11.Text");
+            // 
+            // pictureBox11
+            // 
+            this.pictureBox11.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.pictureBox11.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox11.Image")));
+            this.pictureBox11.Location = new System.Drawing.Point(303, 89);
+            this.pictureBox11.Name = "pictureBox11";
+            this.pictureBox11.Size = new System.Drawing.Size(250, 204);
+            this.pictureBox11.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
+            this.pictureBox11.TabIndex = 8;
+            this.pictureBox11.TabStop = false;
+            // 
+            // groupBox5
+            // 
+            this.groupBox5.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.groupBox5.Controls.Add(this.label10);
+            this.groupBox5.Controls.Add(this.pictureBox10);
+            this.groupBox5.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.groupBox5.Location = new System.Drawing.Point(21, 1266);
+            this.groupBox5.Name = "groupBox5";
+            this.groupBox5.Size = new System.Drawing.Size(932, 309);
+            this.groupBox5.TabIndex = 14;
+            this.groupBox5.TabStop = false;
+            this.groupBox5.Text = "5) Armonia de un sistema";
+            // 
+            // label10
+            // 
+            this.label10.AutoSize = true;
+            this.label10.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label10.Location = new System.Drawing.Point(6, 28);
+            this.label10.Name = "label10";
+            this.label10.Size = new System.Drawing.Size(1252, 42);
+            this.label10.TabIndex = 9;
+            this.label10.Text = resources.GetString("label10.Text");
+            // 
+            // pictureBox10
+            // 
+            this.pictureBox10.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.pictureBox10.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox10.Image")));
+            this.pictureBox10.Location = new System.Drawing.Point(303, 115);
+            this.pictureBox10.Name = "pictureBox10";
+            this.pictureBox10.Size = new System.Drawing.Size(250, 129);
+            this.pictureBox10.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
+            this.pictureBox10.TabIndex = 8;
+            this.pictureBox10.TabStop = false;
+            // 
+            // groupBox4
+            // 
+            this.groupBox4.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.groupBox4.Controls.Add(this.label9);
+            this.groupBox4.Controls.Add(this.pictureBox9);
+            this.groupBox4.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.groupBox4.Location = new System.Drawing.Point(21, 941);
+            this.groupBox4.Name = "groupBox4";
+            this.groupBox4.Size = new System.Drawing.Size(932, 309);
+            this.groupBox4.TabIndex = 13;
+            this.groupBox4.TabStop = false;
+            this.groupBox4.Text = "4) Tipos de sistemas:";
+            // 
+            // label9
+            // 
+            this.label9.AutoSize = true;
+            this.label9.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label9.Location = new System.Drawing.Point(6, 28);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(1097, 42);
+            this.label9.TabIndex = 9;
+            this.label9.Text = resources.GetString("label9.Text");
+            // 
+            // pictureBox9
+            // 
+            this.pictureBox9.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.pictureBox9.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox9.Image")));
+            this.pictureBox9.Location = new System.Drawing.Point(303, 89);
+            this.pictureBox9.Name = "pictureBox9";
+            this.pictureBox9.Size = new System.Drawing.Size(250, 188);
+            this.pictureBox9.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
+            this.pictureBox9.TabIndex = 8;
+            this.pictureBox9.TabStop = false;
+            // 
             // groupBox3
             // 
             this.groupBox3.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
@@ -511,7 +1308,7 @@ namespace Propiedades_de_los_sistemas
             this.pictureBox8.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox8.Image")));
             this.pictureBox8.Location = new System.Drawing.Point(303, 89);
             this.pictureBox8.Name = "pictureBox8";
-            this.pictureBox8.Size = new System.Drawing.Size(342, 199);
+            this.pictureBox8.Size = new System.Drawing.Size(250, 199);
             this.pictureBox8.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
             this.pictureBox8.TabIndex = 8;
             this.pictureBox8.TabStop = false;
@@ -549,7 +1346,7 @@ namespace Propiedades_de_los_sistemas
             this.pictureBox7.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox7.Image")));
             this.pictureBox7.Location = new System.Drawing.Point(303, 57);
             this.pictureBox7.Name = "pictureBox7";
-            this.pictureBox7.Size = new System.Drawing.Size(342, 220);
+            this.pictureBox7.Size = new System.Drawing.Size(250, 220);
             this.pictureBox7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
             this.pictureBox7.TabIndex = 8;
             this.pictureBox7.TabStop = false;
@@ -586,7 +1383,7 @@ namespace Propiedades_de_los_sistemas
             this.pictureBox6.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox6.Image")));
             this.pictureBox6.Location = new System.Drawing.Point(303, 57);
             this.pictureBox6.Name = "pictureBox6";
-            this.pictureBox6.Size = new System.Drawing.Size(342, 167);
+            this.pictureBox6.Size = new System.Drawing.Size(250, 167);
             this.pictureBox6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
             this.pictureBox6.TabIndex = 8;
             this.pictureBox6.TabStop = false;
@@ -611,6 +1408,12 @@ namespace Propiedades_de_los_sistemas
             | System.Windows.Forms.AnchorStyles.Right)));
             this.panel3.AutoScroll = true;
             this.panel3.BackColor = System.Drawing.Color.White;
+            this.panel3.Controls.Add(this.combo25);
+            this.panel3.Controls.Add(this.label54);
+            this.panel3.Controls.Add(this.combo24);
+            this.panel3.Controls.Add(this.label55);
+            this.panel3.Controls.Add(this.combo23);
+            this.panel3.Controls.Add(this.label56);
             this.panel3.Controls.Add(this.combo22);
             this.panel3.Controls.Add(this.label46);
             this.panel3.Controls.Add(this.combo17);
@@ -663,1030 +1466,198 @@ namespace Propiedades_de_los_sistemas
             this.panel3.TabIndex = 7;
             this.panel3.Visible = false;
             // 
-            // btnTerminar
-            // 
-            this.btnTerminar.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnTerminar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(114)))), ((int)(((byte)(77)))));
-            this.btnTerminar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnTerminar.Font = new System.Drawing.Font("Century Gothic", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnTerminar.ForeColor = System.Drawing.Color.White;
-            this.btnTerminar.Location = new System.Drawing.Point(1170, 51);
-            this.btnTerminar.Name = "btnTerminar";
-            this.btnTerminar.Size = new System.Drawing.Size(105, 41);
-            this.btnTerminar.TabIndex = 10;
-            this.btnTerminar.Text = "Terminar";
-            this.btnTerminar.UseVisualStyleBackColor = false;
-            this.btnTerminar.Visible = false;
-            this.btnTerminar.Click += new System.EventHandler(this.btnTerminar_Click);
-            // 
-            // label4
-            // 
-            this.label4.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label4.AutoSize = true;
-            this.label4.Font = new System.Drawing.Font("Century Gothic", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.ForeColor = System.Drawing.Color.Black;
-            this.label4.Location = new System.Drawing.Point(16, 17);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(124, 22);
-            this.label4.TabIndex = 6;
-            this.label4.Text = "Cuestionario";
-            // 
-            // btnCuestionario
-            // 
-            this.btnCuestionario.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnCuestionario.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(114)))), ((int)(((byte)(77)))));
-            this.btnCuestionario.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnCuestionario.Font = new System.Drawing.Font("Century Gothic", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnCuestionario.ForeColor = System.Drawing.Color.White;
-            this.btnCuestionario.Location = new System.Drawing.Point(974, 53);
-            this.btnCuestionario.Name = "btnCuestionario";
-            this.btnCuestionario.Size = new System.Drawing.Size(166, 41);
-            this.btnCuestionario.TabIndex = 8;
-            this.btnCuestionario.Text = "Iniciar cuestionario";
-            this.btnCuestionario.UseVisualStyleBackColor = false;
-            this.btnCuestionario.Click += new System.EventHandler(this.btnCuestionario_Click);
-            // 
-            // pictureBox5
-            // 
-            this.pictureBox5.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.pictureBox5.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox5.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox5.Image")));
-            this.pictureBox5.Location = new System.Drawing.Point(472, 100);
-            this.pictureBox5.Name = "pictureBox5";
-            this.pictureBox5.Size = new System.Drawing.Size(692, 565);
-            this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox5.TabIndex = 9;
-            this.pictureBox5.TabStop = false;
-            // 
-            // groupBox4
-            // 
-            this.groupBox4.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.groupBox4.Controls.Add(this.label9);
-            this.groupBox4.Controls.Add(this.pictureBox9);
-            this.groupBox4.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.groupBox4.Location = new System.Drawing.Point(21, 941);
-            this.groupBox4.Name = "groupBox4";
-            this.groupBox4.Size = new System.Drawing.Size(932, 309);
-            this.groupBox4.TabIndex = 13;
-            this.groupBox4.TabStop = false;
-            this.groupBox4.Text = "4) Tipos de sistemas:";
-            // 
-            // label9
-            // 
-            this.label9.AutoSize = true;
-            this.label9.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label9.Location = new System.Drawing.Point(6, 28);
-            this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(1097, 42);
-            this.label9.TabIndex = 9;
-            this.label9.Text = resources.GetString("label9.Text");
-            // 
-            // pictureBox9
-            // 
-            this.pictureBox9.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.pictureBox9.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox9.Image")));
-            this.pictureBox9.Location = new System.Drawing.Point(303, 89);
-            this.pictureBox9.Name = "pictureBox9";
-            this.pictureBox9.Size = new System.Drawing.Size(342, 199);
-            this.pictureBox9.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
-            this.pictureBox9.TabIndex = 8;
-            this.pictureBox9.TabStop = false;
-            // 
-            // groupBox5
-            // 
-            this.groupBox5.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.groupBox5.Controls.Add(this.label10);
-            this.groupBox5.Controls.Add(this.pictureBox10);
-            this.groupBox5.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.groupBox5.Location = new System.Drawing.Point(21, 1266);
-            this.groupBox5.Name = "groupBox5";
-            this.groupBox5.Size = new System.Drawing.Size(932, 309);
-            this.groupBox5.TabIndex = 14;
-            this.groupBox5.TabStop = false;
-            this.groupBox5.Text = "5) Armonia de un sistema";
-            // 
-            // label10
-            // 
-            this.label10.AutoSize = true;
-            this.label10.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label10.Location = new System.Drawing.Point(6, 28);
-            this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(1252, 42);
-            this.label10.TabIndex = 9;
-            this.label10.Text = resources.GetString("label10.Text");
-            // 
-            // pictureBox10
-            // 
-            this.pictureBox10.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.pictureBox10.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox10.Image")));
-            this.pictureBox10.Location = new System.Drawing.Point(303, 89);
-            this.pictureBox10.Name = "pictureBox10";
-            this.pictureBox10.Size = new System.Drawing.Size(342, 199);
-            this.pictureBox10.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
-            this.pictureBox10.TabIndex = 8;
-            this.pictureBox10.TabStop = false;
-            // 
-            // groupBox6
-            // 
-            this.groupBox6.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.groupBox6.Controls.Add(this.label11);
-            this.groupBox6.Controls.Add(this.pictureBox11);
-            this.groupBox6.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.groupBox6.Location = new System.Drawing.Point(21, 1588);
-            this.groupBox6.Name = "groupBox6";
-            this.groupBox6.Size = new System.Drawing.Size(932, 309);
-            this.groupBox6.TabIndex = 15;
-            this.groupBox6.TabStop = false;
-            this.groupBox6.Text = "6) ¿Qué es un sistema?";
-            // 
-            // label11
-            // 
-            this.label11.AutoSize = true;
-            this.label11.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label11.Location = new System.Drawing.Point(6, 28);
-            this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(1279, 42);
-            this.label11.TabIndex = 9;
-            this.label11.Text = resources.GetString("label11.Text");
-            // 
-            // pictureBox11
-            // 
-            this.pictureBox11.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.pictureBox11.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox11.Image")));
-            this.pictureBox11.Location = new System.Drawing.Point(303, 89);
-            this.pictureBox11.Name = "pictureBox11";
-            this.pictureBox11.Size = new System.Drawing.Size(342, 199);
-            this.pictureBox11.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
-            this.pictureBox11.TabIndex = 8;
-            this.pictureBox11.TabStop = false;
-            // 
-            // groupBox7
-            // 
-            this.groupBox7.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.groupBox7.Controls.Add(this.label12);
-            this.groupBox7.Controls.Add(this.pictureBox12);
-            this.groupBox7.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.groupBox7.Location = new System.Drawing.Point(21, 1914);
-            this.groupBox7.Name = "groupBox7";
-            this.groupBox7.Size = new System.Drawing.Size(932, 309);
-            this.groupBox7.TabIndex = 16;
-            this.groupBox7.TabStop = false;
-            this.groupBox7.Text = "7) Subsistemas";
-            // 
-            // label12
-            // 
-            this.label12.AutoSize = true;
-            this.label12.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label12.Location = new System.Drawing.Point(6, 28);
-            this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(1478, 42);
-            this.label12.TabIndex = 9;
-            this.label12.Text = resources.GetString("label12.Text");
-            // 
-            // pictureBox12
-            // 
-            this.pictureBox12.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.pictureBox12.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox12.Image")));
-            this.pictureBox12.Location = new System.Drawing.Point(303, 89);
-            this.pictureBox12.Name = "pictureBox12";
-            this.pictureBox12.Size = new System.Drawing.Size(342, 199);
-            this.pictureBox12.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
-            this.pictureBox12.TabIndex = 8;
-            this.pictureBox12.TabStop = false;
-            // 
-            // groupBox8
-            // 
-            this.groupBox8.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.groupBox8.Controls.Add(this.label13);
-            this.groupBox8.Controls.Add(this.pictureBox13);
-            this.groupBox8.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.groupBox8.Location = new System.Drawing.Point(21, 2242);
-            this.groupBox8.Name = "groupBox8";
-            this.groupBox8.Size = new System.Drawing.Size(932, 331);
-            this.groupBox8.TabIndex = 17;
-            this.groupBox8.TabStop = false;
-            this.groupBox8.Text = "8) Caracteristicas de los objetos de un sistema";
-            // 
-            // label13
-            // 
-            this.label13.AutoSize = true;
-            this.label13.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label13.Location = new System.Drawing.Point(6, 28);
-            this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(1011, 84);
-            this.label13.TabIndex = 9;
-            this.label13.Text = resources.GetString("label13.Text");
-            // 
-            // pictureBox13
-            // 
-            this.pictureBox13.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.pictureBox13.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox13.Image")));
-            this.pictureBox13.Location = new System.Drawing.Point(303, 120);
-            this.pictureBox13.Name = "pictureBox13";
-            this.pictureBox13.Size = new System.Drawing.Size(342, 199);
-            this.pictureBox13.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
-            this.pictureBox13.TabIndex = 8;
-            this.pictureBox13.TabStop = false;
-            // 
-            // groupBox9
-            // 
-            this.groupBox9.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.groupBox9.Controls.Add(this.label14);
-            this.groupBox9.Controls.Add(this.pictureBox14);
-            this.groupBox9.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.groupBox9.Location = new System.Drawing.Point(21, 2589);
-            this.groupBox9.Name = "groupBox9";
-            this.groupBox9.Size = new System.Drawing.Size(932, 262);
-            this.groupBox9.TabIndex = 18;
-            this.groupBox9.TabStop = false;
-            this.groupBox9.Text = "9) Elementos clave";
-            // 
-            // label14
-            // 
-            this.label14.AutoSize = true;
-            this.label14.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label14.Location = new System.Drawing.Point(6, 28);
-            this.label14.Name = "label14";
-            this.label14.Size = new System.Drawing.Size(711, 168);
-            this.label14.TabIndex = 9;
-            this.label14.Text = resources.GetString("label14.Text");
-            // 
-            // pictureBox14
-            // 
-            this.pictureBox14.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.pictureBox14.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox14.Image")));
-            this.pictureBox14.Location = new System.Drawing.Point(744, 39);
-            this.pictureBox14.Name = "pictureBox14";
-            this.pictureBox14.Size = new System.Drawing.Size(342, 199);
-            this.pictureBox14.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
-            this.pictureBox14.TabIndex = 8;
-            this.pictureBox14.TabStop = false;
-            // 
-            // groupBox10
-            // 
-            this.groupBox10.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.groupBox10.Controls.Add(this.label15);
-            this.groupBox10.Controls.Add(this.pictureBox15);
-            this.groupBox10.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.groupBox10.Location = new System.Drawing.Point(21, 2868);
-            this.groupBox10.Name = "groupBox10";
-            this.groupBox10.Size = new System.Drawing.Size(932, 248);
-            this.groupBox10.TabIndex = 18;
-            this.groupBox10.TabStop = false;
-            this.groupBox10.Text = "10) Tipos generales de sistemas";
-            // 
-            // label15
-            // 
-            this.label15.AutoSize = true;
-            this.label15.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label15.Location = new System.Drawing.Point(6, 28);
-            this.label15.Name = "label15";
-            this.label15.Size = new System.Drawing.Size(607, 84);
-            this.label15.TabIndex = 9;
-            this.label15.Text = "Existen tres tipos generales de sistemas que encontramos en la cotidianidad: \r\n -" +
-    " Los sistemas naturales \r\n - Los sistemas artificiales \r\n - La combinación de am" +
-    "bos se conoce como sistemas compuestos";
-            // 
-            // pictureBox15
-            // 
-            this.pictureBox15.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.pictureBox15.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox15.Image")));
-            this.pictureBox15.Location = new System.Drawing.Point(632, 28);
-            this.pictureBox15.Name = "pictureBox15";
-            this.pictureBox15.Size = new System.Drawing.Size(342, 199);
-            this.pictureBox15.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
-            this.pictureBox15.TabIndex = 8;
-            this.pictureBox15.TabStop = false;
-            // 
-            // groupBox11
-            // 
-            this.groupBox11.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.groupBox11.Controls.Add(this.label16);
-            this.groupBox11.Controls.Add(this.pictureBox16);
-            this.groupBox11.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.groupBox11.Location = new System.Drawing.Point(21, 3132);
-            this.groupBox11.Name = "groupBox11";
-            this.groupBox11.Size = new System.Drawing.Size(932, 323);
-            this.groupBox11.TabIndex = 19;
-            this.groupBox11.TabStop = false;
-            this.groupBox11.Text = "11) Estrategias para la investigación";
-            // 
-            // label16
-            // 
-            this.label16.AutoSize = true;
-            this.label16.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label16.Location = new System.Drawing.Point(6, 28);
-            this.label16.Name = "label16";
-            this.label16.Size = new System.Drawing.Size(1213, 63);
-            this.label16.TabIndex = 9;
-            this.label16.Text = resources.GetString("label16.Text");
-            // 
-            // pictureBox16
-            // 
-            this.pictureBox16.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.pictureBox16.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox16.Image")));
-            this.pictureBox16.Location = new System.Drawing.Point(363, 107);
-            this.pictureBox16.Name = "pictureBox16";
-            this.pictureBox16.Size = new System.Drawing.Size(342, 199);
-            this.pictureBox16.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
-            this.pictureBox16.TabIndex = 8;
-            this.pictureBox16.TabStop = false;
-            // 
-            // groupBox12
-            // 
-            this.groupBox12.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.groupBox12.Controls.Add(this.label17);
-            this.groupBox12.Controls.Add(this.pictureBox17);
-            this.groupBox12.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.groupBox12.Location = new System.Drawing.Point(21, 3468);
-            this.groupBox12.Name = "groupBox12";
-            this.groupBox12.Size = new System.Drawing.Size(932, 249);
-            this.groupBox12.TabIndex = 20;
-            this.groupBox12.TabStop = false;
-            this.groupBox12.Text = "12) Clasificación de los sistemas";
-            // 
-            // label17
-            // 
-            this.label17.AutoSize = true;
-            this.label17.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label17.Location = new System.Drawing.Point(6, 28);
-            this.label17.Name = "label17";
-            this.label17.Size = new System.Drawing.Size(538, 84);
-            this.label17.TabIndex = 9;
-            this.label17.Text = resources.GetString("label17.Text");
-            // 
-            // pictureBox17
-            // 
-            this.pictureBox17.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.pictureBox17.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox17.Image")));
-            this.pictureBox17.Location = new System.Drawing.Point(578, 28);
-            this.pictureBox17.Name = "pictureBox17";
-            this.pictureBox17.Size = new System.Drawing.Size(342, 199);
-            this.pictureBox17.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
-            this.pictureBox17.TabIndex = 8;
-            this.pictureBox17.TabStop = false;
-            // 
-            // groupBox13
-            // 
-            this.groupBox13.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.groupBox13.Controls.Add(this.label18);
-            this.groupBox13.Controls.Add(this.pictureBox18);
-            this.groupBox13.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.groupBox13.Location = new System.Drawing.Point(21, 3734);
-            this.groupBox13.Name = "groupBox13";
-            this.groupBox13.Size = new System.Drawing.Size(932, 268);
-            this.groupBox13.TabIndex = 21;
-            this.groupBox13.TabStop = false;
-            this.groupBox13.Text = "13) Niveles de jerarquia";
-            // 
-            // label18
-            // 
-            this.label18.AutoSize = true;
-            this.label18.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label18.Location = new System.Drawing.Point(6, 28);
-            this.label18.Name = "label18";
-            this.label18.Size = new System.Drawing.Size(630, 210);
-            this.label18.TabIndex = 9;
-            this.label18.Text = resources.GetString("label18.Text");
-            // 
-            // pictureBox18
-            // 
-            this.pictureBox18.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.pictureBox18.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox18.Image")));
-            this.pictureBox18.Location = new System.Drawing.Point(655, 48);
-            this.pictureBox18.Name = "pictureBox18";
-            this.pictureBox18.Size = new System.Drawing.Size(342, 199);
-            this.pictureBox18.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
-            this.pictureBox18.TabIndex = 8;
-            this.pictureBox18.TabStop = false;
-            // 
-            // groupBox14
-            // 
-            this.groupBox14.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.groupBox14.Controls.Add(this.label19);
-            this.groupBox14.Controls.Add(this.pictureBox19);
-            this.groupBox14.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.groupBox14.Location = new System.Drawing.Point(21, 4025);
-            this.groupBox14.Name = "groupBox14";
-            this.groupBox14.Size = new System.Drawing.Size(932, 369);
-            this.groupBox14.TabIndex = 22;
-            this.groupBox14.TabStop = false;
-            this.groupBox14.Text = "14) Conceptos básicos";
-            // 
-            // label19
-            // 
-            this.label19.AutoSize = true;
-            this.label19.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label19.Location = new System.Drawing.Point(6, 28);
-            this.label19.Name = "label19";
-            this.label19.Size = new System.Drawing.Size(1032, 126);
-            this.label19.TabIndex = 9;
-            this.label19.Text = "La teoría General de sistemas introduce términos interdisciplinarios o conceptos " +
-    "básicos universales, algunos de estos conceptos son:\r\n - Adaptabilidad\r\n - Ambie" +
-    "nte\r\n - Armonía\r\n - Atributo\r\netc..";
-            // 
-            // pictureBox19
-            // 
-            this.pictureBox19.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.pictureBox19.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox19.Image")));
-            this.pictureBox19.Location = new System.Drawing.Point(303, 154);
-            this.pictureBox19.Name = "pictureBox19";
-            this.pictureBox19.Size = new System.Drawing.Size(342, 199);
-            this.pictureBox19.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
-            this.pictureBox19.TabIndex = 8;
-            this.pictureBox19.TabStop = false;
-            // 
-            // groupBox15
-            // 
-            this.groupBox15.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.groupBox15.Controls.Add(this.label20);
-            this.groupBox15.Controls.Add(this.pictureBox20);
-            this.groupBox15.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.groupBox15.Location = new System.Drawing.Point(21, 4414);
-            this.groupBox15.Name = "groupBox15";
-            this.groupBox15.Size = new System.Drawing.Size(932, 351);
-            this.groupBox15.TabIndex = 23;
-            this.groupBox15.TabStop = false;
-            this.groupBox15.Text = "15) Caja negra";
-            // 
-            // label20
-            // 
-            this.label20.AutoSize = true;
-            this.label20.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label20.Location = new System.Drawing.Point(6, 28);
-            this.label20.Name = "label20";
-            this.label20.Size = new System.Drawing.Size(1161, 42);
-            this.label20.TabIndex = 9;
-            this.label20.Text = "La caja negra se utiliza para representar a los sistemas cuando se sabe que eleme" +
-    "ntos o cosas los componen, pero se reconoce que a determinadas \r\nentradas corres" +
-    "ponden determinadas salidas.";
-            // 
-            // pictureBox20
-            // 
-            this.pictureBox20.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.pictureBox20.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox20.Image")));
-            this.pictureBox20.Location = new System.Drawing.Point(303, 117);
-            this.pictureBox20.Name = "pictureBox20";
-            this.pictureBox20.Size = new System.Drawing.Size(342, 199);
-            this.pictureBox20.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
-            this.pictureBox20.TabIndex = 8;
-            this.pictureBox20.TabStop = false;
-            // 
-            // groupBox16
-            // 
-            this.groupBox16.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.groupBox16.Controls.Add(this.label21);
-            this.groupBox16.Controls.Add(this.pictureBox21);
-            this.groupBox16.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.groupBox16.Location = new System.Drawing.Point(21, 4778);
-            this.groupBox16.Name = "groupBox16";
-            this.groupBox16.Size = new System.Drawing.Size(932, 351);
-            this.groupBox16.TabIndex = 24;
-            this.groupBox16.TabStop = false;
-            this.groupBox16.Text = "16) Cibernetica";
-            // 
-            // label21
-            // 
-            this.label21.AutoSize = true;
-            this.label21.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label21.Location = new System.Drawing.Point(6, 28);
-            this.label21.Name = "label21";
-            this.label21.Size = new System.Drawing.Size(1363, 21);
-            this.label21.TabIndex = 9;
-            this.label21.Text = "La cibernética viene del griego Kybernetes. La cibernética es el campo interdisci" +
-    "plinario de los procesos de control y de comunicación tanto en máquinas como en " +
-    "seres vivos. ";
-            // 
-            // pictureBox21
-            // 
-            this.pictureBox21.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.pictureBox21.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox21.Image")));
-            this.pictureBox21.Location = new System.Drawing.Point(303, 117);
-            this.pictureBox21.Name = "pictureBox21";
-            this.pictureBox21.Size = new System.Drawing.Size(342, 199);
-            this.pictureBox21.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
-            this.pictureBox21.TabIndex = 8;
-            this.pictureBox21.TabStop = false;
-            // 
-            // groupBox17
-            // 
-            this.groupBox17.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.groupBox17.Controls.Add(this.label22);
-            this.groupBox17.Controls.Add(this.pictureBox22);
-            this.groupBox17.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.groupBox17.Location = new System.Drawing.Point(21, 5153);
-            this.groupBox17.Name = "groupBox17";
-            this.groupBox17.Size = new System.Drawing.Size(932, 351);
-            this.groupBox17.TabIndex = 25;
-            this.groupBox17.TabStop = false;
-            this.groupBox17.Text = "17) La energia en un sistema";
-            // 
-            // label22
-            // 
-            this.label22.AutoSize = true;
-            this.label22.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label22.Location = new System.Drawing.Point(6, 28);
-            this.label22.Name = "label22";
-            this.label22.Size = new System.Drawing.Size(1332, 21);
-            this.label22.TabIndex = 9;
-            this.label22.Text = "La Energía es la entrada al sistema o resultados de procesos que hacen que el sis" +
-    "tema continúe su comportamiento o realice cambios de acuerdo a los cambios que s" +
-    "ufra.";
-            // 
-            // pictureBox22
-            // 
-            this.pictureBox22.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.pictureBox22.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox22.Image")));
-            this.pictureBox22.Location = new System.Drawing.Point(303, 117);
-            this.pictureBox22.Name = "pictureBox22";
-            this.pictureBox22.Size = new System.Drawing.Size(342, 199);
-            this.pictureBox22.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
-            this.pictureBox22.TabIndex = 8;
-            this.pictureBox22.TabStop = false;
-            // 
-            // groupBox18
-            // 
-            this.groupBox18.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.groupBox18.Controls.Add(this.label23);
-            this.groupBox18.Controls.Add(this.pictureBox23);
-            this.groupBox18.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.groupBox18.Location = new System.Drawing.Point(21, 5527);
-            this.groupBox18.Name = "groupBox18";
-            this.groupBox18.Size = new System.Drawing.Size(932, 351);
-            this.groupBox18.TabIndex = 26;
-            this.groupBox18.TabStop = false;
-            this.groupBox18.Text = "18) Entradas de un sistema";
-            // 
-            // label23
-            // 
-            this.label23.AutoSize = true;
-            this.label23.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label23.Location = new System.Drawing.Point(6, 28);
-            this.label23.Name = "label23";
-            this.label23.Size = new System.Drawing.Size(1316, 42);
-            this.label23.TabIndex = 9;
-            this.label23.Text = resources.GetString("label23.Text");
-            // 
-            // pictureBox23
-            // 
-            this.pictureBox23.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.pictureBox23.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox23.Image")));
-            this.pictureBox23.Location = new System.Drawing.Point(303, 117);
-            this.pictureBox23.Name = "pictureBox23";
-            this.pictureBox23.Size = new System.Drawing.Size(342, 199);
-            this.pictureBox23.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
-            this.pictureBox23.TabIndex = 8;
-            this.pictureBox23.TabStop = false;
-            // 
-            // groupBox19
-            // 
-            this.groupBox19.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.groupBox19.Controls.Add(this.label24);
-            this.groupBox19.Controls.Add(this.pictureBox24);
-            this.groupBox19.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.groupBox19.Location = new System.Drawing.Point(21, 5894);
-            this.groupBox19.Name = "groupBox19";
-            this.groupBox19.Size = new System.Drawing.Size(932, 351);
-            this.groupBox19.TabIndex = 27;
-            this.groupBox19.TabStop = false;
-            this.groupBox19.Text = "19) Homeostasis";
-            // 
-            // label24
-            // 
-            this.label24.AutoSize = true;
-            this.label24.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label24.Location = new System.Drawing.Point(6, 28);
-            this.label24.Name = "label24";
-            this.label24.Size = new System.Drawing.Size(849, 21);
-            this.label24.TabIndex = 9;
-            this.label24.Text = "La homeostasis es la propiedad de un sistema que define su nivel de respuesta y d" +
-    "e adaptación al contexto.";
-            // 
-            // pictureBox24
-            // 
-            this.pictureBox24.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.pictureBox24.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox24.Image")));
-            this.pictureBox24.Location = new System.Drawing.Point(303, 117);
-            this.pictureBox24.Name = "pictureBox24";
-            this.pictureBox24.Size = new System.Drawing.Size(342, 199);
-            this.pictureBox24.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
-            this.pictureBox24.TabIndex = 8;
-            this.pictureBox24.TabStop = false;
-            // 
-            // groupBox20
-            // 
-            this.groupBox20.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.groupBox20.Controls.Add(this.label25);
-            this.groupBox20.Controls.Add(this.pictureBox25);
-            this.groupBox20.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.groupBox20.Location = new System.Drawing.Point(21, 6266);
-            this.groupBox20.Name = "groupBox20";
-            this.groupBox20.Size = new System.Drawing.Size(932, 351);
-            this.groupBox20.TabIndex = 28;
-            this.groupBox20.TabStop = false;
-            this.groupBox20.Text = "20) Morfogenesis";
-            // 
-            // label25
-            // 
-            this.label25.AutoSize = true;
-            this.label25.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label25.Location = new System.Drawing.Point(6, 28);
-            this.label25.Name = "label25";
-            this.label25.Size = new System.Drawing.Size(1326, 42);
-            this.label25.TabIndex = 9;
-            this.label25.Text = resources.GetString("label25.Text");
-            // 
-            // pictureBox25
-            // 
-            this.pictureBox25.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.pictureBox25.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox25.Image")));
-            this.pictureBox25.Location = new System.Drawing.Point(303, 117);
-            this.pictureBox25.Name = "pictureBox25";
-            this.pictureBox25.Size = new System.Drawing.Size(342, 199);
-            this.pictureBox25.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
-            this.pictureBox25.TabIndex = 8;
-            this.pictureBox25.TabStop = false;
-            // 
-            // groupBox21
-            // 
-            this.groupBox21.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.groupBox21.Controls.Add(this.label26);
-            this.groupBox21.Controls.Add(this.pictureBox26);
-            this.groupBox21.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.groupBox21.Location = new System.Drawing.Point(21, 6637);
-            this.groupBox21.Name = "groupBox21";
-            this.groupBox21.Size = new System.Drawing.Size(932, 351);
-            this.groupBox21.TabIndex = 29;
-            this.groupBox21.TabStop = false;
-            this.groupBox21.Text = "21) Interdependencias internas";
-            // 
-            // label26
-            // 
-            this.label26.AutoSize = true;
-            this.label26.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label26.Location = new System.Drawing.Point(6, 28);
-            this.label26.Name = "label26";
-            this.label26.Size = new System.Drawing.Size(1302, 42);
-            this.label26.TabIndex = 9;
-            this.label26.Text = resources.GetString("label26.Text");
-            // 
-            // pictureBox26
-            // 
-            this.pictureBox26.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.pictureBox26.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox26.Image")));
-            this.pictureBox26.Location = new System.Drawing.Point(303, 117);
-            this.pictureBox26.Name = "pictureBox26";
-            this.pictureBox26.Size = new System.Drawing.Size(342, 199);
-            this.pictureBox26.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
-            this.pictureBox26.TabIndex = 8;
-            this.pictureBox26.TabStop = false;
-            // 
-            // groupBox22
-            // 
-            this.groupBox22.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.groupBox22.Controls.Add(this.label27);
-            this.groupBox22.Controls.Add(this.pictureBox27);
-            this.groupBox22.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.groupBox22.Location = new System.Drawing.Point(21, 7005);
-            this.groupBox22.Name = "groupBox22";
-            this.groupBox22.Size = new System.Drawing.Size(932, 351);
-            this.groupBox22.TabIndex = 30;
-            this.groupBox22.TabStop = false;
-            this.groupBox22.Text = "22) Tipos de retroalimentación";
-            // 
-            // label27
-            // 
-            this.label27.AutoSize = true;
-            this.label27.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label27.Location = new System.Drawing.Point(6, 28);
-            this.label27.Name = "label27";
-            this.label27.Size = new System.Drawing.Size(1344, 42);
-            this.label27.TabIndex = 9;
-            this.label27.Text = resources.GetString("label27.Text");
-            // 
-            // pictureBox27
-            // 
-            this.pictureBox27.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.pictureBox27.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox27.Image")));
-            this.pictureBox27.Location = new System.Drawing.Point(303, 117);
-            this.pictureBox27.Name = "pictureBox27";
-            this.pictureBox27.Size = new System.Drawing.Size(342, 199);
-            this.pictureBox27.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
-            this.pictureBox27.TabIndex = 8;
-            this.pictureBox27.TabStop = false;
-            // 
-            // groupBox23
-            // 
-            this.groupBox23.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.groupBox23.Controls.Add(this.label28);
-            this.groupBox23.Controls.Add(this.pictureBox28);
-            this.groupBox23.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.groupBox23.Location = new System.Drawing.Point(21, 7379);
-            this.groupBox23.Name = "groupBox23";
-            this.groupBox23.Size = new System.Drawing.Size(932, 351);
-            this.groupBox23.TabIndex = 31;
-            this.groupBox23.TabStop = false;
-            this.groupBox23.Text = "23) Una organización";
-            // 
-            // label28
-            // 
-            this.label28.AutoSize = true;
-            this.label28.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label28.Location = new System.Drawing.Point(6, 28);
-            this.label28.Name = "label28";
-            this.label28.Size = new System.Drawing.Size(1317, 21);
-            this.label28.TabIndex = 9;
-            this.label28.Text = "La organización es una inmensa capacidad de movimiento generador que hace posible" +
-    " lo imposible, es decir, genera emergencias, transforma la realidad y la conserv" +
-    "a.";
-            // 
-            // pictureBox28
-            // 
-            this.pictureBox28.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.pictureBox28.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox28.Image")));
-            this.pictureBox28.Location = new System.Drawing.Point(303, 117);
-            this.pictureBox28.Name = "pictureBox28";
-            this.pictureBox28.Size = new System.Drawing.Size(342, 199);
-            this.pictureBox28.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
-            this.pictureBox28.TabIndex = 8;
-            this.pictureBox28.TabStop = false;
-            // 
-            // groupBox24
-            // 
-            this.groupBox24.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.groupBox24.Controls.Add(this.label29);
-            this.groupBox24.Controls.Add(this.pictureBox29);
-            this.groupBox24.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.groupBox24.Location = new System.Drawing.Point(21, 7750);
-            this.groupBox24.Name = "groupBox24";
-            this.groupBox24.Size = new System.Drawing.Size(932, 351);
-            this.groupBox24.TabIndex = 32;
-            this.groupBox24.TabStop = false;
-            this.groupBox24.Text = "24) Subsistemas de una empresa";
-            // 
-            // label29
-            // 
-            this.label29.AutoSize = true;
-            this.label29.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label29.Location = new System.Drawing.Point(6, 28);
-            this.label29.Name = "label29";
-            this.label29.Size = new System.Drawing.Size(864, 21);
-            this.label29.TabIndex = 9;
-            this.label29.Text = "Dentro de una empresa existen una serie de subsistemas como lo son el psicosocial" +
-    ", técnico y el administrativo.";
-            // 
-            // pictureBox29
-            // 
-            this.pictureBox29.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.pictureBox29.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox29.Image")));
-            this.pictureBox29.Location = new System.Drawing.Point(303, 117);
-            this.pictureBox29.Name = "pictureBox29";
-            this.pictureBox29.Size = new System.Drawing.Size(342, 199);
-            this.pictureBox29.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
-            this.pictureBox29.TabIndex = 8;
-            this.pictureBox29.TabStop = false;
-            // 
-            // groupBox25
-            // 
-            this.groupBox25.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.groupBox25.Controls.Add(this.label30);
-            this.groupBox25.Controls.Add(this.pictureBox30);
-            this.groupBox25.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.groupBox25.Location = new System.Drawing.Point(21, 8121);
-            this.groupBox25.Name = "groupBox25";
-            this.groupBox25.Size = new System.Drawing.Size(932, 333);
-            this.groupBox25.TabIndex = 33;
-            this.groupBox25.TabStop = false;
-            this.groupBox25.Text = "25) Administración Buckley";
-            // 
-            // label30
-            // 
-            this.label30.AutoSize = true;
-            this.label30.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label30.Location = new System.Drawing.Point(6, 28);
-            this.label30.Name = "label30";
-            this.label30.Size = new System.Drawing.Size(1385, 42);
-            this.label30.TabIndex = 9;
-            this.label30.Text = resources.GetString("label30.Text");
-            // 
-            // pictureBox30
-            // 
-            this.pictureBox30.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.pictureBox30.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox30.Image")));
-            this.pictureBox30.Location = new System.Drawing.Point(303, 117);
-            this.pictureBox30.Name = "pictureBox30";
-            this.pictureBox30.Size = new System.Drawing.Size(342, 199);
-            this.pictureBox30.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
-            this.pictureBox30.TabIndex = 8;
-            this.pictureBox30.TabStop = false;
-            // 
-            // label31
-            // 
-            this.label31.AutoSize = true;
-            this.label31.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label31.Location = new System.Drawing.Point(26, 75);
-            this.label31.Name = "label31";
-            this.label31.Size = new System.Drawing.Size(305, 21);
-            this.label31.TabIndex = 9;
-            this.label31.Text = "1. ¿Qué nociones contiene synistanai?";
-            // 
-            // combo1
-            // 
-            this.combo1.FormattingEnabled = true;
-            this.combo1.Items.AddRange(new object[] {
+            // combo22
+            // 
+            this.combo22.FormattingEnabled = true;
+            this.combo22.Items.AddRange(new object[] {
+            "Retroalimentación efectiva ",
+            "Retroalimentación grande",
+            "Retroalimentación pequeña",
+            "Ninguna de las anteriores"});
+            this.combo22.Location = new System.Drawing.Point(34, 1432);
+            this.combo22.Name = "combo22";
+            this.combo22.Size = new System.Drawing.Size(313, 21);
+            this.combo22.TabIndex = 58;
+            // 
+            // label46
+            // 
+            this.label46.AutoSize = true;
+            this.label46.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label46.Location = new System.Drawing.Point(30, 1403);
+            this.label46.Name = "label46";
+            this.label46.Size = new System.Drawing.Size(577, 21);
+            this.label46.TabIndex = 57;
+            this.label46.Text = "22. ¿Cuáles son los tipos de retroalimentación que existen en un sistema ?";
+            // 
+            // combo17
+            // 
+            this.combo17.FormattingEnabled = true;
+            this.combo17.Items.AddRange(new object[] {
+            "La energía ayuda a transformar las entradas y salidas durante el proceso dentro d" +
+                "e los sistemas ",
+            "La energía no se crea ni se destruye solo se transforma",
+            "La energía sirve para dispersar componentes",
+            "La energía sirve para mantener vivo el sistema"});
+            this.combo17.Location = new System.Drawing.Point(34, 1111);
+            this.combo17.Name = "combo17";
+            this.combo17.Size = new System.Drawing.Size(313, 21);
+            this.combo17.TabIndex = 56;
+            // 
+            // combo21
+            // 
+            this.combo21.FormattingEnabled = true;
+            this.combo21.Items.AddRange(new object[] {
+            "Verdadero",
+            "Falso"});
+            this.combo21.Location = new System.Drawing.Point(34, 1367);
+            this.combo21.Name = "combo21";
+            this.combo21.Size = new System.Drawing.Size(313, 21);
+            this.combo21.TabIndex = 55;
+            // 
+            // label47
+            // 
+            this.label47.AutoSize = true;
+            this.label47.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label47.Location = new System.Drawing.Point(30, 1340);
+            this.label47.Name = "label47";
+            this.label47.Size = new System.Drawing.Size(936, 21);
+            this.label47.TabIndex = 54;
+            this.label47.Text = "21. Dentro de las organizaciones existen interdependencias internas que tienen gr" +
+    "ados, esta afirmación es cierta o falsa";
+            // 
+            // combo20
+            // 
+            this.combo20.FormattingEnabled = true;
+            this.combo20.Items.AddRange(new object[] {
+            "Procesos de diferenciación, el aprendizaje y la especialización",
+            "Transformación, cambios de entradas",
+            "Uso de salidas para cambios",
+            "Ninguna de las anteriores "});
+            this.combo20.Location = new System.Drawing.Point(34, 1305);
+            this.combo20.Name = "combo20";
+            this.combo20.Size = new System.Drawing.Size(313, 21);
+            this.combo20.TabIndex = 53;
+            // 
+            // label48
+            // 
+            this.label48.AutoSize = true;
+            this.label48.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label48.Location = new System.Drawing.Point(30, 1279);
+            this.label48.Name = "label48";
+            this.label48.Size = new System.Drawing.Size(343, 21);
+            this.label48.TabIndex = 52;
+            this.label48.Text = "20. ¿Cuáles son ejemplos de morfogénesis ?";
+            // 
+            // combo19
+            // 
+            this.combo19.FormattingEnabled = true;
+            this.combo19.Items.AddRange(new object[] {
+            "Verdadero",
+            "Falso"});
+            this.combo19.Location = new System.Drawing.Point(34, 1243);
+            this.combo19.Name = "combo19";
+            this.combo19.Size = new System.Drawing.Size(313, 21);
+            this.combo19.TabIndex = 51;
+            // 
+            // label49
+            // 
+            this.label49.AutoSize = true;
+            this.label49.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label49.Location = new System.Drawing.Point(30, 1214);
+            this.label49.Name = "label49";
+            this.label49.Size = new System.Drawing.Size(527, 21);
+            this.label49.TabIndex = 50;
+            this.label49.Text = "19. ¿La homeostasis permite que un sistema se mantenga estable?";
+            // 
+            // combo18
+            // 
+            this.combo18.FormattingEnabled = true;
+            this.combo18.Items.AddRange(new object[] {
+            "energía y recursos materiales",
+            "en serie y aleatorias",
+            "energía y aleatorias",
+            "en serie  y recursos de información"});
+            this.combo18.Location = new System.Drawing.Point(34, 1178);
+            this.combo18.Name = "combo18";
+            this.combo18.Size = new System.Drawing.Size(313, 21);
+            this.combo18.TabIndex = 49;
+            // 
+            // label50
+            // 
+            this.label50.AutoSize = true;
+            this.label50.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label50.Location = new System.Drawing.Point(30, 1148);
+            this.label50.Name = "label50";
+            this.label50.Size = new System.Drawing.Size(281, 21);
+            this.label50.TabIndex = 48;
+            this.label50.Text = "18. ¿Qué tipo de entradas existen?";
+            // 
+            // label51
+            // 
+            this.label51.AutoSize = true;
+            this.label51.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label51.Location = new System.Drawing.Point(30, 1084);
+            this.label51.Name = "label51";
+            this.label51.Size = new System.Drawing.Size(413, 21);
+            this.label51.TabIndex = 47;
+            this.label51.Text = "17. ¿Para qué sirve la energía dentro de un sistema?";
+            // 
+            // combo16
+            // 
+            this.combo16.FormattingEnabled = true;
+            this.combo16.Items.AddRange(new object[] {
+            "Griego",
+            "Latin ",
+            "Romance",
+            "Alemán"});
+            this.combo16.Location = new System.Drawing.Point(34, 1049);
+            this.combo16.Name = "combo16";
+            this.combo16.Size = new System.Drawing.Size(313, 21);
+            this.combo16.TabIndex = 46;
+            // 
+            // label52
+            // 
+            this.label52.AutoSize = true;
+            this.label52.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label52.Location = new System.Drawing.Point(30, 1025);
+            this.label52.Name = "label52";
+            this.label52.Size = new System.Drawing.Size(361, 21);
+            this.label52.TabIndex = 45;
+            this.label52.Text = "16. ¿La palabra Kybernetes que origen tiene?";
+            // 
+            // combo15
+            // 
+            this.combo15.FormattingEnabled = true;
+            this.combo15.Items.AddRange(new object[] {
             "Reunir, juntar o colocar juntos.",
             "Separar o dividir.",
             "Sintetizar y anular.",
             "Ninguna de las anteriores"});
-            this.combo1.Location = new System.Drawing.Point(30, 103);
-            this.combo1.Name = "combo1";
-            this.combo1.Size = new System.Drawing.Size(313, 21);
-            this.combo1.TabIndex = 14;
+            this.combo15.Location = new System.Drawing.Point(34, 991);
+            this.combo15.Name = "combo15";
+            this.combo15.Size = new System.Drawing.Size(313, 21);
+            this.combo15.TabIndex = 44;
             // 
-            // label32
+            // label53
             // 
-            this.label32.AutoSize = true;
-            this.label32.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label32.Location = new System.Drawing.Point(26, 137);
-            this.label32.Name = "label32";
-            this.label32.Size = new System.Drawing.Size(455, 21);
-            this.label32.TabIndex = 15;
-            this.label32.Text = "2. ¿Qué es la integración de ciencias sociales y naturales?";
+            this.label53.AutoSize = true;
+            this.label53.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label53.Location = new System.Drawing.Point(30, 963);
+            this.label53.Name = "label53";
+            this.label53.Size = new System.Drawing.Size(987, 21);
+            this.label53.TabIndex = 43;
+            this.label53.Text = "15. ¿La siguiente afirmación es verdadera o falsa? En un sistema de caja negra se" +
+    " reconocen los elementos dentro del proceso";
             // 
-            // combo2
+            // label45
             // 
-            this.combo2.FormattingEnabled = true;
-            this.combo2.Items.AddRange(new object[] {
-            "Antropia",
-            "Teleología.",
-            "Teoría General de Sistemas",
-            "Cibernética"});
-            this.combo2.Location = new System.Drawing.Point(30, 161);
-            this.combo2.Name = "combo2";
-            this.combo2.Size = new System.Drawing.Size(313, 21);
-            this.combo2.TabIndex = 16;
-            // 
-            // label33
-            // 
-            this.label33.AutoSize = true;
-            this.label33.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label33.Location = new System.Drawing.Point(26, 196);
-            this.label33.Name = "label33";
-            this.label33.Size = new System.Drawing.Size(724, 21);
-            this.label33.TabIndex = 17;
-            this.label33.Text = "3. ¿En los sistemas abiertos es posible identificar lo que ocurre entre las entra" +
-    "das y las salidas?";
-            // 
-            // combo4
-            // 
-            this.combo4.FormattingEnabled = true;
-            this.combo4.Items.AddRange(new object[] {
-            "Sistema solar",
-            "Sistemas abiertos, Sistemas sociales, Sistemas vivos",
-            "Sistema Digestivo, Sistema Respiratorio y Sistema Renal",
-            "Ecosistema, ciclo del agua"});
-            this.combo4.Location = new System.Drawing.Point(30, 290);
-            this.combo4.Name = "combo4";
-            this.combo4.Size = new System.Drawing.Size(313, 21);
-            this.combo4.TabIndex = 20;
-            // 
-            // label34
-            // 
-            this.label34.AutoSize = true;
-            this.label34.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label34.Location = new System.Drawing.Point(26, 260);
-            this.label34.Name = "label34";
-            this.label34.Size = new System.Drawing.Size(870, 21);
-            this.label34.TabIndex = 19;
-            this.label34.Text = "4. ¿Cuáles de los siguientes se consideran sistemas según su énfasis en las carac" +
-    "terísticas específica del sistema?";
-            // 
-            // combo5
-            // 
-            this.combo5.FormattingEnabled = true;
-            this.combo5.Items.AddRange(new object[] {
-            "Significa que el sistema está dañado.",
-            "Representa que le duele algo ",
-            "Una falla representa una salida no deseable o que no cumple con el objetivo ",
-            "Significa que la entrada es correcta y dentro del proceso se daña."});
-            this.combo5.Location = new System.Drawing.Point(30, 355);
-            this.combo5.Name = "combo5";
-            this.combo5.Size = new System.Drawing.Size(313, 21);
-            this.combo5.TabIndex = 22;
-            // 
-            // label35
-            // 
-            this.label35.AutoSize = true;
-            this.label35.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label35.Location = new System.Drawing.Point(26, 326);
-            this.label35.Name = "label35";
-            this.label35.Size = new System.Drawing.Size(387, 21);
-            this.label35.TabIndex = 21;
-            this.label35.Text = "5. ¿Que representa una falla dentro del sistema?";
-            // 
-            // combo6
-            // 
-            this.combo6.FormattingEnabled = true;
-            this.combo6.Items.AddRange(new object[] {
-            "Un sistema es todo lo relacionado con tecnología",
-            "Un sistema es lo que es estudiado por la Ingeniería de sistemas ",
-            "Un sistemas es un conjunto de elementos que interactúan para  alcanzar un objetiv" +
-                "o",
-            "Un sistema es un conjunto de sistemas gastronómico"});
-            this.combo6.Location = new System.Drawing.Point(30, 417);
-            this.combo6.Name = "combo6";
-            this.combo6.Size = new System.Drawing.Size(313, 21);
-            this.combo6.TabIndex = 24;
-            // 
-            // label36
-            // 
-            this.label36.AutoSize = true;
-            this.label36.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label36.Location = new System.Drawing.Point(26, 391);
-            this.label36.Name = "label36";
-            this.label36.Size = new System.Drawing.Size(185, 21);
-            this.label36.TabIndex = 23;
-            this.label36.Text = "6. ¿Que es un sistema?";
-            // 
-            // combo7
-            // 
-            this.combo7.FormattingEnabled = true;
-            this.combo7.Items.AddRange(new object[] {
-            "Verdadero",
-            "Falso"});
-            this.combo7.Location = new System.Drawing.Point(30, 479);
-            this.combo7.Name = "combo7";
-            this.combo7.Size = new System.Drawing.Size(313, 21);
-            this.combo7.TabIndex = 26;
-            // 
-            // label37
-            // 
-            this.label37.AutoSize = true;
-            this.label37.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label37.Location = new System.Drawing.Point(26, 452);
-            this.label37.Name = "label37";
-            this.label37.Size = new System.Drawing.Size(699, 21);
-            this.label37.TabIndex = 25;
-            this.label37.Text = "7. ¿Es posible que la salida de un subsistema se convierta en la salida de otro s" +
-    "ubsistema?";
-            // 
-            // combo3
-            // 
-            this.combo3.FormattingEnabled = true;
-            this.combo3.Items.AddRange(new object[] {
-            "Verdadero",
-            "Falso"});
-            this.combo3.Location = new System.Drawing.Point(30, 223);
-            this.combo3.Name = "combo3";
-            this.combo3.Size = new System.Drawing.Size(313, 21);
-            this.combo3.TabIndex = 27;
+            this.label45.AutoSize = true;
+            this.label45.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label45.Location = new System.Drawing.Point(252, 1703);
+            this.label45.Name = "label45";
+            this.label45.Size = new System.Drawing.Size(481, 21);
+            this.label45.TabIndex = 42;
+            this.label45.Text = "Cuestionario terminado, para terminar haga clic en terminar";
             // 
             // combo10
             // 
@@ -1855,204 +1826,293 @@ namespace Propiedades_de_los_sistemas
             this.label44.Text = "8. Elija cuál de las siguientes es una característica de los objetivos de un sist" +
     "ema";
             // 
-            // label45
+            // combo3
             // 
-            this.label45.AutoSize = true;
-            this.label45.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label45.Location = new System.Drawing.Point(719, 1703);
-            this.label45.Name = "label45";
-            this.label45.Size = new System.Drawing.Size(185, 21);
-            this.label45.TabIndex = 42;
-            this.label45.Text = "6. ¿Que es un sistema?";
-            // 
-            // combo22
-            // 
-            this.combo22.FormattingEnabled = true;
-            this.combo22.Items.AddRange(new object[] {
-            "Los objetivos deben ser claros y precisos",
-            "Los objetivos no deben dar impresiones del alcance y las limitaciones de un siste" +
-                "ma ",
-            "Los objetivos no sirven para dar el por que y el que del funcionamiento del siste" +
-                "ma",
-            "El objetivo es medible. Ya sea por observación directa, indicadores , comparacion" +
-                "es y análisis de la conveniencia de resultados."});
-            this.combo22.Location = new System.Drawing.Point(34, 1432);
-            this.combo22.Name = "combo22";
-            this.combo22.Size = new System.Drawing.Size(313, 21);
-            this.combo22.TabIndex = 58;
-            // 
-            // label46
-            // 
-            this.label46.AutoSize = true;
-            this.label46.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label46.Location = new System.Drawing.Point(30, 1403);
-            this.label46.Name = "label46";
-            this.label46.Size = new System.Drawing.Size(624, 21);
-            this.label46.TabIndex = 57;
-            this.label46.Text = "8. Elija cuál de las siguientes es una característica de los objetivos de un sist" +
-    "ema";
-            // 
-            // combo17
-            // 
-            this.combo17.FormattingEnabled = true;
-            this.combo17.Items.AddRange(new object[] {
+            this.combo3.FormattingEnabled = true;
+            this.combo3.Items.AddRange(new object[] {
             "Verdadero",
             "Falso"});
-            this.combo17.Location = new System.Drawing.Point(34, 1111);
-            this.combo17.Name = "combo17";
-            this.combo17.Size = new System.Drawing.Size(313, 21);
-            this.combo17.TabIndex = 56;
+            this.combo3.Location = new System.Drawing.Point(30, 223);
+            this.combo3.Name = "combo3";
+            this.combo3.Size = new System.Drawing.Size(313, 21);
+            this.combo3.TabIndex = 27;
             // 
-            // combo21
+            // combo7
             // 
-            this.combo21.FormattingEnabled = true;
-            this.combo21.Items.AddRange(new object[] {
+            this.combo7.FormattingEnabled = true;
+            this.combo7.Items.AddRange(new object[] {
             "Verdadero",
             "Falso"});
-            this.combo21.Location = new System.Drawing.Point(34, 1367);
-            this.combo21.Name = "combo21";
-            this.combo21.Size = new System.Drawing.Size(313, 21);
-            this.combo21.TabIndex = 55;
+            this.combo7.Location = new System.Drawing.Point(30, 479);
+            this.combo7.Name = "combo7";
+            this.combo7.Size = new System.Drawing.Size(313, 21);
+            this.combo7.TabIndex = 26;
             // 
-            // label47
+            // label37
             // 
-            this.label47.AutoSize = true;
-            this.label47.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label47.Location = new System.Drawing.Point(30, 1340);
-            this.label47.Name = "label47";
-            this.label47.Size = new System.Drawing.Size(699, 21);
-            this.label47.TabIndex = 54;
-            this.label47.Text = "7. ¿Es posible que la salida de un subsistema se convierta en la salida de otro s" +
+            this.label37.AutoSize = true;
+            this.label37.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label37.Location = new System.Drawing.Point(26, 452);
+            this.label37.Name = "label37";
+            this.label37.Size = new System.Drawing.Size(699, 21);
+            this.label37.TabIndex = 25;
+            this.label37.Text = "7. ¿Es posible que la salida de un subsistema se convierta en la salida de otro s" +
     "ubsistema?";
             // 
-            // combo20
+            // combo6
             // 
-            this.combo20.FormattingEnabled = true;
-            this.combo20.Items.AddRange(new object[] {
+            this.combo6.FormattingEnabled = true;
+            this.combo6.Items.AddRange(new object[] {
             "Un sistema es todo lo relacionado con tecnología",
             "Un sistema es lo que es estudiado por la Ingeniería de sistemas ",
             "Un sistemas es un conjunto de elementos que interactúan para  alcanzar un objetiv" +
                 "o",
             "Un sistema es un conjunto de sistemas gastronómico"});
-            this.combo20.Location = new System.Drawing.Point(34, 1305);
-            this.combo20.Name = "combo20";
-            this.combo20.Size = new System.Drawing.Size(313, 21);
-            this.combo20.TabIndex = 53;
+            this.combo6.Location = new System.Drawing.Point(30, 417);
+            this.combo6.Name = "combo6";
+            this.combo6.Size = new System.Drawing.Size(313, 21);
+            this.combo6.TabIndex = 24;
             // 
-            // label48
+            // label36
             // 
-            this.label48.AutoSize = true;
-            this.label48.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label48.Location = new System.Drawing.Point(30, 1279);
-            this.label48.Name = "label48";
-            this.label48.Size = new System.Drawing.Size(185, 21);
-            this.label48.TabIndex = 52;
-            this.label48.Text = "6. ¿Que es un sistema?";
+            this.label36.AutoSize = true;
+            this.label36.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label36.Location = new System.Drawing.Point(26, 391);
+            this.label36.Name = "label36";
+            this.label36.Size = new System.Drawing.Size(185, 21);
+            this.label36.TabIndex = 23;
+            this.label36.Text = "6. ¿Que es un sistema?";
             // 
-            // combo19
+            // combo5
             // 
-            this.combo19.FormattingEnabled = true;
-            this.combo19.Items.AddRange(new object[] {
+            this.combo5.FormattingEnabled = true;
+            this.combo5.Items.AddRange(new object[] {
             "Significa que el sistema está dañado.",
             "Representa que le duele algo ",
             "Una falla representa una salida no deseable o que no cumple con el objetivo ",
             "Significa que la entrada es correcta y dentro del proceso se daña."});
-            this.combo19.Location = new System.Drawing.Point(34, 1243);
-            this.combo19.Name = "combo19";
-            this.combo19.Size = new System.Drawing.Size(313, 21);
-            this.combo19.TabIndex = 51;
+            this.combo5.Location = new System.Drawing.Point(30, 355);
+            this.combo5.Name = "combo5";
+            this.combo5.Size = new System.Drawing.Size(313, 21);
+            this.combo5.TabIndex = 22;
             // 
-            // label49
+            // label35
             // 
-            this.label49.AutoSize = true;
-            this.label49.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label49.Location = new System.Drawing.Point(30, 1214);
-            this.label49.Name = "label49";
-            this.label49.Size = new System.Drawing.Size(387, 21);
-            this.label49.TabIndex = 50;
-            this.label49.Text = "5. ¿Que representa una falla dentro del sistema?";
+            this.label35.AutoSize = true;
+            this.label35.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label35.Location = new System.Drawing.Point(26, 326);
+            this.label35.Name = "label35";
+            this.label35.Size = new System.Drawing.Size(387, 21);
+            this.label35.TabIndex = 21;
+            this.label35.Text = "5. ¿Que representa una falla dentro del sistema?";
             // 
-            // combo18
+            // combo4
             // 
-            this.combo18.FormattingEnabled = true;
-            this.combo18.Items.AddRange(new object[] {
+            this.combo4.FormattingEnabled = true;
+            this.combo4.Items.AddRange(new object[] {
             "Sistema solar",
             "Sistemas abiertos, Sistemas sociales, Sistemas vivos",
             "Sistema Digestivo, Sistema Respiratorio y Sistema Renal",
             "Ecosistema, ciclo del agua"});
-            this.combo18.Location = new System.Drawing.Point(34, 1178);
-            this.combo18.Name = "combo18";
-            this.combo18.Size = new System.Drawing.Size(313, 21);
-            this.combo18.TabIndex = 49;
+            this.combo4.Location = new System.Drawing.Point(30, 290);
+            this.combo4.Name = "combo4";
+            this.combo4.Size = new System.Drawing.Size(313, 21);
+            this.combo4.TabIndex = 20;
             // 
-            // label50
+            // label34
             // 
-            this.label50.AutoSize = true;
-            this.label50.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label50.Location = new System.Drawing.Point(30, 1148);
-            this.label50.Name = "label50";
-            this.label50.Size = new System.Drawing.Size(870, 21);
-            this.label50.TabIndex = 48;
-            this.label50.Text = "4. ¿Cuáles de los siguientes se consideran sistemas según su énfasis en las carac" +
+            this.label34.AutoSize = true;
+            this.label34.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label34.Location = new System.Drawing.Point(26, 260);
+            this.label34.Name = "label34";
+            this.label34.Size = new System.Drawing.Size(870, 21);
+            this.label34.TabIndex = 19;
+            this.label34.Text = "4. ¿Cuáles de los siguientes se consideran sistemas según su énfasis en las carac" +
     "terísticas específica del sistema?";
             // 
-            // label51
+            // label33
             // 
-            this.label51.AutoSize = true;
-            this.label51.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label51.Location = new System.Drawing.Point(30, 1084);
-            this.label51.Name = "label51";
-            this.label51.Size = new System.Drawing.Size(724, 21);
-            this.label51.TabIndex = 47;
-            this.label51.Text = "3. ¿En los sistemas abiertos es posible identificar lo que ocurre entre las entra" +
+            this.label33.AutoSize = true;
+            this.label33.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label33.Location = new System.Drawing.Point(26, 196);
+            this.label33.Name = "label33";
+            this.label33.Size = new System.Drawing.Size(724, 21);
+            this.label33.TabIndex = 17;
+            this.label33.Text = "3. ¿En los sistemas abiertos es posible identificar lo que ocurre entre las entra" +
     "das y las salidas?";
             // 
-            // combo16
+            // combo2
             // 
-            this.combo16.FormattingEnabled = true;
-            this.combo16.Items.AddRange(new object[] {
+            this.combo2.FormattingEnabled = true;
+            this.combo2.Items.AddRange(new object[] {
             "Antropia",
             "Teleología.",
             "Teoría General de Sistemas",
             "Cibernética"});
-            this.combo16.Location = new System.Drawing.Point(34, 1049);
-            this.combo16.Name = "combo16";
-            this.combo16.Size = new System.Drawing.Size(313, 21);
-            this.combo16.TabIndex = 46;
+            this.combo2.Location = new System.Drawing.Point(30, 161);
+            this.combo2.Name = "combo2";
+            this.combo2.Size = new System.Drawing.Size(313, 21);
+            this.combo2.TabIndex = 16;
             // 
-            // label52
+            // label32
             // 
-            this.label52.AutoSize = true;
-            this.label52.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label52.Location = new System.Drawing.Point(30, 1025);
-            this.label52.Name = "label52";
-            this.label52.Size = new System.Drawing.Size(455, 21);
-            this.label52.TabIndex = 45;
-            this.label52.Text = "2. ¿Qué es la integración de ciencias sociales y naturales?";
+            this.label32.AutoSize = true;
+            this.label32.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label32.Location = new System.Drawing.Point(26, 137);
+            this.label32.Name = "label32";
+            this.label32.Size = new System.Drawing.Size(455, 21);
+            this.label32.TabIndex = 15;
+            this.label32.Text = "2. ¿Qué es la integración de ciencias sociales y naturales?";
             // 
-            // combo15
+            // combo1
             // 
-            this.combo15.FormattingEnabled = true;
-            this.combo15.Items.AddRange(new object[] {
+            this.combo1.FormattingEnabled = true;
+            this.combo1.Items.AddRange(new object[] {
             "Reunir, juntar o colocar juntos.",
             "Separar o dividir.",
             "Sintetizar y anular.",
             "Ninguna de las anteriores"});
-            this.combo15.Location = new System.Drawing.Point(34, 991);
-            this.combo15.Name = "combo15";
-            this.combo15.Size = new System.Drawing.Size(313, 21);
-            this.combo15.TabIndex = 44;
+            this.combo1.Location = new System.Drawing.Point(30, 103);
+            this.combo1.Name = "combo1";
+            this.combo1.Size = new System.Drawing.Size(313, 21);
+            this.combo1.TabIndex = 14;
             // 
-            // label53
+            // label31
             // 
-            this.label53.AutoSize = true;
-            this.label53.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label53.Location = new System.Drawing.Point(30, 963);
-            this.label53.Name = "label53";
-            this.label53.Size = new System.Drawing.Size(987, 21);
-            this.label53.TabIndex = 43;
-            this.label53.Text = "15. ¿La siguiente afirmación es verdadera o falsa? En un sistema de caja negra se" +
-    " reconocen los elementos dentro del proceso";
+            this.label31.AutoSize = true;
+            this.label31.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label31.Location = new System.Drawing.Point(26, 75);
+            this.label31.Name = "label31";
+            this.label31.Size = new System.Drawing.Size(305, 21);
+            this.label31.TabIndex = 9;
+            this.label31.Text = "1. ¿Qué nociones contiene synistanai?";
+            // 
+            // label4
+            // 
+            this.label4.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.label4.AutoSize = true;
+            this.label4.Font = new System.Drawing.Font("Century Gothic", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.ForeColor = System.Drawing.Color.Black;
+            this.label4.Location = new System.Drawing.Point(16, 17);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(124, 22);
+            this.label4.TabIndex = 6;
+            this.label4.Text = "Cuestionario";
+            // 
+            // btnTerminar
+            // 
+            this.btnTerminar.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnTerminar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(114)))), ((int)(((byte)(77)))));
+            this.btnTerminar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnTerminar.Font = new System.Drawing.Font("Century Gothic", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnTerminar.ForeColor = System.Drawing.Color.White;
+            this.btnTerminar.Location = new System.Drawing.Point(1170, 51);
+            this.btnTerminar.Name = "btnTerminar";
+            this.btnTerminar.Size = new System.Drawing.Size(105, 41);
+            this.btnTerminar.TabIndex = 10;
+            this.btnTerminar.Text = "Terminar";
+            this.btnTerminar.UseVisualStyleBackColor = false;
+            this.btnTerminar.Visible = false;
+            this.btnTerminar.Click += new System.EventHandler(this.btnTerminar_Click);
+            // 
+            // btnCuestionario
+            // 
+            this.btnCuestionario.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnCuestionario.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(114)))), ((int)(((byte)(77)))));
+            this.btnCuestionario.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnCuestionario.Font = new System.Drawing.Font("Century Gothic", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnCuestionario.ForeColor = System.Drawing.Color.White;
+            this.btnCuestionario.Location = new System.Drawing.Point(974, 53);
+            this.btnCuestionario.Name = "btnCuestionario";
+            this.btnCuestionario.Size = new System.Drawing.Size(166, 41);
+            this.btnCuestionario.TabIndex = 8;
+            this.btnCuestionario.Text = "Iniciar cuestionario";
+            this.btnCuestionario.UseVisualStyleBackColor = false;
+            this.btnCuestionario.Click += new System.EventHandler(this.btnCuestionario_Click);
+            // 
+            // pictureBox5
+            // 
+            this.pictureBox5.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.pictureBox5.BackColor = System.Drawing.Color.Transparent;
+            this.pictureBox5.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox5.Image")));
+            this.pictureBox5.Location = new System.Drawing.Point(472, 100);
+            this.pictureBox5.Name = "pictureBox5";
+            this.pictureBox5.Size = new System.Drawing.Size(692, 565);
+            this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox5.TabIndex = 9;
+            this.pictureBox5.TabStop = false;
+            // 
+            // combo25
+            // 
+            this.combo25.FormattingEnabled = true;
+            this.combo25.Items.AddRange(new object[] {
+            "de extracción y origen mecánico",
+            "de extracción y origen biológico",
+            "de extracción y origen artificial",
+            "ninguna de las anteriores"});
+            this.combo25.Location = new System.Drawing.Point(34, 1622);
+            this.combo25.Name = "combo25";
+            this.combo25.Size = new System.Drawing.Size(313, 21);
+            this.combo25.TabIndex = 64;
+            // 
+            // label54
+            // 
+            this.label54.AutoSize = true;
+            this.label54.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label54.Location = new System.Drawing.Point(30, 1593);
+            this.label54.Name = "label54";
+            this.label54.Size = new System.Drawing.Size(610, 21);
+            this.label54.TabIndex = 63;
+            this.label54.Text = "25. Según Buckley cual de los siguientes no pertenece a un modelo existente?";
+            // 
+            // combo24
+            // 
+            this.combo24.FormattingEnabled = true;
+            this.combo24.Items.AddRange(new object[] {
+            "obrero y económico",
+            "el psicosocial, técnico y el administrativo",
+            "solo el económico",
+            "solo el administrativo"});
+            this.combo24.Location = new System.Drawing.Point(34, 1557);
+            this.combo24.Name = "combo24";
+            this.combo24.Size = new System.Drawing.Size(313, 21);
+            this.combo24.TabIndex = 62;
+            // 
+            // label55
+            // 
+            this.label55.AutoSize = true;
+            this.label55.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label55.Location = new System.Drawing.Point(30, 1530);
+            this.label55.Name = "label55";
+            this.label55.Size = new System.Drawing.Size(457, 21);
+            this.label55.TabIndex = 61;
+            this.label55.Text = "24. ¿Cuáles son los subsistemas que forman una empresa?";
+            // 
+            // combo23
+            // 
+            this.combo23.FormattingEnabled = true;
+            this.combo23.Items.AddRange(new object[] {
+            "genera emergencias, transforma la realidad y la conserva.",
+            "no se propone hacer posible lo imposible",
+            "no transforma la realidad",
+            "ninguna de las anteriores"});
+            this.combo23.Location = new System.Drawing.Point(34, 1495);
+            this.combo23.Name = "combo23";
+            this.combo23.Size = new System.Drawing.Size(313, 21);
+            this.combo23.TabIndex = 60;
+            // 
+            // label56
+            // 
+            this.label56.AutoSize = true;
+            this.label56.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label56.Location = new System.Drawing.Point(30, 1469);
+            this.label56.Name = "label56";
+            this.label56.Size = new System.Drawing.Size(363, 21);
+            this.label56.TabIndex = 59;
+            this.label56.Text = "23. Una organización es un movimientos que: ";
             // 
             // Form1
             // 
@@ -2061,13 +2121,13 @@ namespace Propiedades_de_los_sistemas
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(216)))), ((int)(((byte)(221)))), ((int)(((byte)(239)))));
             this.ClientSize = new System.Drawing.Size(1341, 695);
             this.Controls.Add(this.btnTerminar);
-            this.Controls.Add(this.panel3);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.btnCuestionario);
             this.Controls.Add(this.pictureBox5);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.lblNombre);
             this.Controls.Add(this.panel1);
+            this.Controls.Add(this.panel3);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
@@ -2082,6 +2142,71 @@ namespace Propiedades_de_los_sistemas
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.panel2.ResumeLayout(false);
             this.panel2.PerformLayout();
+            this.groupBox25.ResumeLayout(false);
+            this.groupBox25.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox30)).EndInit();
+            this.groupBox24.ResumeLayout(false);
+            this.groupBox24.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox29)).EndInit();
+            this.groupBox23.ResumeLayout(false);
+            this.groupBox23.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox28)).EndInit();
+            this.groupBox22.ResumeLayout(false);
+            this.groupBox22.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox27)).EndInit();
+            this.groupBox21.ResumeLayout(false);
+            this.groupBox21.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox26)).EndInit();
+            this.groupBox20.ResumeLayout(false);
+            this.groupBox20.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox25)).EndInit();
+            this.groupBox19.ResumeLayout(false);
+            this.groupBox19.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox24)).EndInit();
+            this.groupBox18.ResumeLayout(false);
+            this.groupBox18.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox23)).EndInit();
+            this.groupBox17.ResumeLayout(false);
+            this.groupBox17.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox22)).EndInit();
+            this.groupBox16.ResumeLayout(false);
+            this.groupBox16.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox21)).EndInit();
+            this.groupBox15.ResumeLayout(false);
+            this.groupBox15.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox20)).EndInit();
+            this.groupBox14.ResumeLayout(false);
+            this.groupBox14.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox19)).EndInit();
+            this.groupBox13.ResumeLayout(false);
+            this.groupBox13.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox18)).EndInit();
+            this.groupBox12.ResumeLayout(false);
+            this.groupBox12.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox17)).EndInit();
+            this.groupBox11.ResumeLayout(false);
+            this.groupBox11.PerformLayout();
+            this.groupBox10.ResumeLayout(false);
+            this.groupBox10.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox15)).EndInit();
+            this.groupBox9.ResumeLayout(false);
+            this.groupBox9.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox14)).EndInit();
+            this.groupBox8.ResumeLayout(false);
+            this.groupBox8.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox13)).EndInit();
+            this.groupBox7.ResumeLayout(false);
+            this.groupBox7.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox12)).EndInit();
+            this.groupBox6.ResumeLayout(false);
+            this.groupBox6.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox11)).EndInit();
+            this.groupBox5.ResumeLayout(false);
+            this.groupBox5.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox10)).EndInit();
+            this.groupBox4.ResumeLayout(false);
+            this.groupBox4.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).EndInit();
             this.groupBox3.ResumeLayout(false);
             this.groupBox3.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).EndInit();
@@ -2094,72 +2219,6 @@ namespace Propiedades_de_los_sistemas
             this.panel3.ResumeLayout(false);
             this.panel3.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
-            this.groupBox4.ResumeLayout(false);
-            this.groupBox4.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).EndInit();
-            this.groupBox5.ResumeLayout(false);
-            this.groupBox5.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox10)).EndInit();
-            this.groupBox6.ResumeLayout(false);
-            this.groupBox6.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox11)).EndInit();
-            this.groupBox7.ResumeLayout(false);
-            this.groupBox7.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox12)).EndInit();
-            this.groupBox8.ResumeLayout(false);
-            this.groupBox8.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox13)).EndInit();
-            this.groupBox9.ResumeLayout(false);
-            this.groupBox9.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox14)).EndInit();
-            this.groupBox10.ResumeLayout(false);
-            this.groupBox10.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox15)).EndInit();
-            this.groupBox11.ResumeLayout(false);
-            this.groupBox11.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox16)).EndInit();
-            this.groupBox12.ResumeLayout(false);
-            this.groupBox12.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox17)).EndInit();
-            this.groupBox13.ResumeLayout(false);
-            this.groupBox13.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox18)).EndInit();
-            this.groupBox14.ResumeLayout(false);
-            this.groupBox14.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox19)).EndInit();
-            this.groupBox15.ResumeLayout(false);
-            this.groupBox15.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox20)).EndInit();
-            this.groupBox16.ResumeLayout(false);
-            this.groupBox16.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox21)).EndInit();
-            this.groupBox17.ResumeLayout(false);
-            this.groupBox17.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox22)).EndInit();
-            this.groupBox18.ResumeLayout(false);
-            this.groupBox18.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox23)).EndInit();
-            this.groupBox19.ResumeLayout(false);
-            this.groupBox19.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox24)).EndInit();
-            this.groupBox20.ResumeLayout(false);
-            this.groupBox20.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox25)).EndInit();
-            this.groupBox21.ResumeLayout(false);
-            this.groupBox21.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox26)).EndInit();
-            this.groupBox22.ResumeLayout(false);
-            this.groupBox22.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox27)).EndInit();
-            this.groupBox23.ResumeLayout(false);
-            this.groupBox23.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox28)).EndInit();
-            this.groupBox24.ResumeLayout(false);
-            this.groupBox24.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox29)).EndInit();
-            this.groupBox25.ResumeLayout(false);
-            this.groupBox25.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox30)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -2221,7 +2280,6 @@ namespace Propiedades_de_los_sistemas
         private System.Windows.Forms.PictureBox pictureBox14;
         private System.Windows.Forms.GroupBox groupBox11;
         private System.Windows.Forms.Label label16;
-        private System.Windows.Forms.PictureBox pictureBox16;
         private System.Windows.Forms.GroupBox groupBox12;
         private System.Windows.Forms.Label label17;
         private System.Windows.Forms.PictureBox pictureBox17;
@@ -2309,6 +2367,12 @@ namespace Propiedades_de_los_sistemas
         private System.Windows.Forms.Label label52;
         private System.Windows.Forms.ComboBox combo15;
         private System.Windows.Forms.Label label53;
+        private System.Windows.Forms.ComboBox combo25;
+        private System.Windows.Forms.Label label54;
+        private System.Windows.Forms.ComboBox combo24;
+        private System.Windows.Forms.Label label55;
+        private System.Windows.Forms.ComboBox combo23;
+        private System.Windows.Forms.Label label56;
     }
 }
 

@@ -1,8 +1,5 @@
-Tabla de puntajes:
-Diego_0
-Luna_0
-Erika_0
-Lu_0
-Odaizir_0
-Alejo_0
-Ale_0
+18
+0
+2
+40
+32

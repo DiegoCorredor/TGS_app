@@ -122,6 +122,12 @@ namespace Propiedades_de_los_sistemas
             this.pictureBox6 = new System.Windows.Forms.PictureBox();
             this.label3 = new System.Windows.Forms.Label();
             this.panel3 = new System.Windows.Forms.Panel();
+            this.combo25 = new System.Windows.Forms.ComboBox();
+            this.label54 = new System.Windows.Forms.Label();
+            this.combo24 = new System.Windows.Forms.ComboBox();
+            this.label55 = new System.Windows.Forms.Label();
+            this.combo23 = new System.Windows.Forms.ComboBox();
+            this.label56 = new System.Windows.Forms.Label();
             this.combo22 = new System.Windows.Forms.ComboBox();
             this.label46 = new System.Windows.Forms.Label();
             this.combo17 = new System.Windows.Forms.ComboBox();
@@ -171,12 +177,8 @@ namespace Propiedades_de_los_sistemas
             this.btnTerminar = new System.Windows.Forms.Button();
             this.btnCuestionario = new System.Windows.Forms.Button();
             this.pictureBox5 = new System.Windows.Forms.PictureBox();
-            this.combo25 = new System.Windows.Forms.ComboBox();
-            this.label54 = new System.Windows.Forms.Label();
-            this.combo24 = new System.Windows.Forms.ComboBox();
-            this.label55 = new System.Windows.Forms.Label();
-            this.combo23 = new System.Windows.Forms.ComboBox();
-            this.label56 = new System.Windows.Forms.Label();
+            this.label57 = new System.Windows.Forms.Label();
+            this.label58 = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
@@ -242,6 +244,7 @@ namespace Propiedades_de_los_sistemas
             | System.Windows.Forms.AnchorStyles.Left)));
             this.panel1.AutoSize = true;
             this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(36)))), ((int)(((byte)(123)))), ((int)(((byte)(160)))));
+            this.panel1.Controls.Add(this.label58);
             this.panel1.Controls.Add(this.button1);
             this.panel1.Controls.Add(this.lblTercero);
             this.panel1.Controls.Add(this.lblSegundo);
@@ -452,6 +455,7 @@ namespace Propiedades_de_los_sistemas
             | System.Windows.Forms.AnchorStyles.Right)));
             this.panel2.AutoScroll = true;
             this.panel2.BackColor = System.Drawing.Color.White;
+            this.panel2.Controls.Add(this.label57);
             this.panel2.Controls.Add(this.groupBox25);
             this.panel2.Controls.Add(this.groupBox24);
             this.panel2.Controls.Add(this.groupBox23);
@@ -491,7 +495,7 @@ namespace Propiedades_de_los_sistemas
             this.groupBox25.Controls.Add(this.label30);
             this.groupBox25.Controls.Add(this.pictureBox30);
             this.groupBox25.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.groupBox25.Location = new System.Drawing.Point(21, 8121);
+            this.groupBox25.Location = new System.Drawing.Point(21, 7371);
             this.groupBox25.Name = "groupBox25";
             this.groupBox25.Size = new System.Drawing.Size(932, 333);
             this.groupBox25.TabIndex = 33;
@@ -513,9 +517,9 @@ namespace Propiedades_de_los_sistemas
             this.pictureBox30.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.pictureBox30.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox30.Image")));
-            this.pictureBox30.Location = new System.Drawing.Point(303, 117);
+            this.pictureBox30.Location = new System.Drawing.Point(319, 78);
             this.pictureBox30.Name = "pictureBox30";
-            this.pictureBox30.Size = new System.Drawing.Size(250, 199);
+            this.pictureBox30.Size = new System.Drawing.Size(250, 244);
             this.pictureBox30.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
             this.pictureBox30.TabIndex = 8;
             this.pictureBox30.TabStop = false;
@@ -527,7 +531,7 @@ namespace Propiedades_de_los_sistemas
             this.groupBox24.Controls.Add(this.label29);
             this.groupBox24.Controls.Add(this.pictureBox29);
             this.groupBox24.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.groupBox24.Location = new System.Drawing.Point(21, 7750);
+            this.groupBox24.Location = new System.Drawing.Point(21, 7000);
             this.groupBox24.Name = "groupBox24";
             this.groupBox24.Size = new System.Drawing.Size(932, 351);
             this.groupBox24.TabIndex = 32;
@@ -550,9 +554,9 @@ namespace Propiedades_de_los_sistemas
             this.pictureBox29.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.pictureBox29.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox29.Image")));
-            this.pictureBox29.Location = new System.Drawing.Point(303, 117);
+            this.pictureBox29.Location = new System.Drawing.Point(302, 64);
             this.pictureBox29.Name = "pictureBox29";
-            this.pictureBox29.Size = new System.Drawing.Size(250, 199);
+            this.pictureBox29.Size = new System.Drawing.Size(252, 252);
             this.pictureBox29.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
             this.pictureBox29.TabIndex = 8;
             this.pictureBox29.TabStop = false;
@@ -564,7 +568,7 @@ namespace Propiedades_de_los_sistemas
             this.groupBox23.Controls.Add(this.label28);
             this.groupBox23.Controls.Add(this.pictureBox28);
             this.groupBox23.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.groupBox23.Location = new System.Drawing.Point(21, 7379);
+            this.groupBox23.Location = new System.Drawing.Point(21, 6630);
             this.groupBox23.Name = "groupBox23";
             this.groupBox23.Size = new System.Drawing.Size(932, 351);
             this.groupBox23.TabIndex = 31;
@@ -588,9 +592,9 @@ namespace Propiedades_de_los_sistemas
             this.pictureBox28.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.pictureBox28.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox28.Image")));
-            this.pictureBox28.Location = new System.Drawing.Point(303, 117);
+            this.pictureBox28.Location = new System.Drawing.Point(304, 77);
             this.pictureBox28.Name = "pictureBox28";
-            this.pictureBox28.Size = new System.Drawing.Size(250, 199);
+            this.pictureBox28.Size = new System.Drawing.Size(252, 252);
             this.pictureBox28.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
             this.pictureBox28.TabIndex = 8;
             this.pictureBox28.TabStop = false;
@@ -602,9 +606,9 @@ namespace Propiedades_de_los_sistemas
             this.groupBox22.Controls.Add(this.label27);
             this.groupBox22.Controls.Add(this.pictureBox27);
             this.groupBox22.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.groupBox22.Location = new System.Drawing.Point(21, 7005);
+            this.groupBox22.Location = new System.Drawing.Point(21, 6304);
             this.groupBox22.Name = "groupBox22";
-            this.groupBox22.Size = new System.Drawing.Size(932, 351);
+            this.groupBox22.Size = new System.Drawing.Size(932, 312);
             this.groupBox22.TabIndex = 30;
             this.groupBox22.TabStop = false;
             this.groupBox22.Text = "22) Tipos de retroalimentación";
@@ -624,9 +628,9 @@ namespace Propiedades_de_los_sistemas
             this.pictureBox27.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.pictureBox27.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox27.Image")));
-            this.pictureBox27.Location = new System.Drawing.Point(303, 117);
+            this.pictureBox27.Location = new System.Drawing.Point(303, 94);
             this.pictureBox27.Name = "pictureBox27";
-            this.pictureBox27.Size = new System.Drawing.Size(250, 199);
+            this.pictureBox27.Size = new System.Drawing.Size(250, 206);
             this.pictureBox27.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
             this.pictureBox27.TabIndex = 8;
             this.pictureBox27.TabStop = false;
@@ -638,9 +642,9 @@ namespace Propiedades_de_los_sistemas
             this.groupBox21.Controls.Add(this.label26);
             this.groupBox21.Controls.Add(this.pictureBox26);
             this.groupBox21.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.groupBox21.Location = new System.Drawing.Point(21, 6637);
+            this.groupBox21.Location = new System.Drawing.Point(21, 5950);
             this.groupBox21.Name = "groupBox21";
-            this.groupBox21.Size = new System.Drawing.Size(932, 351);
+            this.groupBox21.Size = new System.Drawing.Size(932, 332);
             this.groupBox21.TabIndex = 29;
             this.groupBox21.TabStop = false;
             this.groupBox21.Text = "21) Interdependencias internas";
@@ -660,9 +664,9 @@ namespace Propiedades_de_los_sistemas
             this.pictureBox26.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.pictureBox26.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox26.Image")));
-            this.pictureBox26.Location = new System.Drawing.Point(303, 117);
+            this.pictureBox26.Location = new System.Drawing.Point(319, 81);
             this.pictureBox26.Name = "pictureBox26";
-            this.pictureBox26.Size = new System.Drawing.Size(250, 199);
+            this.pictureBox26.Size = new System.Drawing.Size(250, 240);
             this.pictureBox26.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
             this.pictureBox26.TabIndex = 8;
             this.pictureBox26.TabStop = false;
@@ -674,9 +678,9 @@ namespace Propiedades_de_los_sistemas
             this.groupBox20.Controls.Add(this.label25);
             this.groupBox20.Controls.Add(this.pictureBox25);
             this.groupBox20.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.groupBox20.Location = new System.Drawing.Point(21, 6266);
+            this.groupBox20.Location = new System.Drawing.Point(21, 5687);
             this.groupBox20.Name = "groupBox20";
-            this.groupBox20.Size = new System.Drawing.Size(932, 351);
+            this.groupBox20.Size = new System.Drawing.Size(932, 250);
             this.groupBox20.TabIndex = 28;
             this.groupBox20.TabStop = false;
             this.groupBox20.Text = "20) Morfogenesis";
@@ -687,7 +691,7 @@ namespace Propiedades_de_los_sistemas
             this.label25.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label25.Location = new System.Drawing.Point(6, 28);
             this.label25.Name = "label25";
-            this.label25.Size = new System.Drawing.Size(1326, 42);
+            this.label25.Size = new System.Drawing.Size(935, 42);
             this.label25.TabIndex = 9;
             this.label25.Text = resources.GetString("label25.Text");
             // 
@@ -696,9 +700,9 @@ namespace Propiedades_de_los_sistemas
             this.pictureBox25.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.pictureBox25.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox25.Image")));
-            this.pictureBox25.Location = new System.Drawing.Point(303, 117);
+            this.pictureBox25.Location = new System.Drawing.Point(303, 92);
             this.pictureBox25.Name = "pictureBox25";
-            this.pictureBox25.Size = new System.Drawing.Size(250, 199);
+            this.pictureBox25.Size = new System.Drawing.Size(250, 141);
             this.pictureBox25.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
             this.pictureBox25.TabIndex = 8;
             this.pictureBox25.TabStop = false;
@@ -710,9 +714,9 @@ namespace Propiedades_de_los_sistemas
             this.groupBox19.Controls.Add(this.label24);
             this.groupBox19.Controls.Add(this.pictureBox24);
             this.groupBox19.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.groupBox19.Location = new System.Drawing.Point(21, 5894);
+            this.groupBox19.Location = new System.Drawing.Point(21, 5434);
             this.groupBox19.Name = "groupBox19";
-            this.groupBox19.Size = new System.Drawing.Size(932, 351);
+            this.groupBox19.Size = new System.Drawing.Size(932, 243);
             this.groupBox19.TabIndex = 27;
             this.groupBox19.TabStop = false;
             this.groupBox19.Text = "19) Homeostasis";
@@ -733,9 +737,9 @@ namespace Propiedades_de_los_sistemas
             this.pictureBox24.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.pictureBox24.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox24.Image")));
-            this.pictureBox24.Location = new System.Drawing.Point(303, 117);
+            this.pictureBox24.Location = new System.Drawing.Point(304, 71);
             this.pictureBox24.Name = "pictureBox24";
-            this.pictureBox24.Size = new System.Drawing.Size(250, 199);
+            this.pictureBox24.Size = new System.Drawing.Size(250, 156);
             this.pictureBox24.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
             this.pictureBox24.TabIndex = 8;
             this.pictureBox24.TabStop = false;
@@ -747,7 +751,7 @@ namespace Propiedades_de_los_sistemas
             this.groupBox18.Controls.Add(this.label23);
             this.groupBox18.Controls.Add(this.pictureBox23);
             this.groupBox18.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.groupBox18.Location = new System.Drawing.Point(21, 5527);
+            this.groupBox18.Location = new System.Drawing.Point(21, 5067);
             this.groupBox18.Name = "groupBox18";
             this.groupBox18.Size = new System.Drawing.Size(932, 351);
             this.groupBox18.TabIndex = 26;
@@ -769,9 +773,9 @@ namespace Propiedades_de_los_sistemas
             this.pictureBox23.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.pictureBox23.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox23.Image")));
-            this.pictureBox23.Location = new System.Drawing.Point(303, 117);
+            this.pictureBox23.Location = new System.Drawing.Point(304, 75);
             this.pictureBox23.Name = "pictureBox23";
-            this.pictureBox23.Size = new System.Drawing.Size(250, 199);
+            this.pictureBox23.Size = new System.Drawing.Size(252, 252);
             this.pictureBox23.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
             this.pictureBox23.TabIndex = 8;
             this.pictureBox23.TabStop = false;
@@ -783,7 +787,7 @@ namespace Propiedades_de_los_sistemas
             this.groupBox17.Controls.Add(this.label22);
             this.groupBox17.Controls.Add(this.pictureBox22);
             this.groupBox17.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.groupBox17.Location = new System.Drawing.Point(21, 5153);
+            this.groupBox17.Location = new System.Drawing.Point(21, 4693);
             this.groupBox17.Name = "groupBox17";
             this.groupBox17.Size = new System.Drawing.Size(932, 351);
             this.groupBox17.TabIndex = 25;
@@ -807,9 +811,9 @@ namespace Propiedades_de_los_sistemas
             this.pictureBox22.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.pictureBox22.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox22.Image")));
-            this.pictureBox22.Location = new System.Drawing.Point(303, 117);
+            this.pictureBox22.Location = new System.Drawing.Point(354, 78);
             this.pictureBox22.Name = "pictureBox22";
-            this.pictureBox22.Size = new System.Drawing.Size(250, 199);
+            this.pictureBox22.Size = new System.Drawing.Size(252, 252);
             this.pictureBox22.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
             this.pictureBox22.TabIndex = 8;
             this.pictureBox22.TabStop = false;
@@ -821,9 +825,9 @@ namespace Propiedades_de_los_sistemas
             this.groupBox16.Controls.Add(this.label21);
             this.groupBox16.Controls.Add(this.pictureBox21);
             this.groupBox16.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.groupBox16.Location = new System.Drawing.Point(21, 4778);
+            this.groupBox16.Location = new System.Drawing.Point(21, 4414);
             this.groupBox16.Name = "groupBox16";
-            this.groupBox16.Size = new System.Drawing.Size(932, 351);
+            this.groupBox16.Size = new System.Drawing.Size(932, 266);
             this.groupBox16.TabIndex = 24;
             this.groupBox16.TabStop = false;
             this.groupBox16.Text = "16) Cibernetica";
@@ -845,9 +849,9 @@ namespace Propiedades_de_los_sistemas
             this.pictureBox21.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.pictureBox21.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox21.Image")));
-            this.pictureBox21.Location = new System.Drawing.Point(303, 117);
+            this.pictureBox21.Location = new System.Drawing.Point(319, 77);
             this.pictureBox21.Name = "pictureBox21";
-            this.pictureBox21.Size = new System.Drawing.Size(250, 199);
+            this.pictureBox21.Size = new System.Drawing.Size(250, 167);
             this.pictureBox21.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
             this.pictureBox21.TabIndex = 8;
             this.pictureBox21.TabStop = false;
@@ -859,9 +863,9 @@ namespace Propiedades_de_los_sistemas
             this.groupBox15.Controls.Add(this.label20);
             this.groupBox15.Controls.Add(this.pictureBox20);
             this.groupBox15.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.groupBox15.Location = new System.Drawing.Point(21, 4414);
+            this.groupBox15.Location = new System.Drawing.Point(21, 4153);
             this.groupBox15.Name = "groupBox15";
-            this.groupBox15.Size = new System.Drawing.Size(932, 351);
+            this.groupBox15.Size = new System.Drawing.Size(932, 239);
             this.groupBox15.TabIndex = 23;
             this.groupBox15.TabStop = false;
             this.groupBox15.Text = "15) Caja negra";
@@ -897,9 +901,9 @@ namespace Propiedades_de_los_sistemas
             this.groupBox14.Controls.Add(this.label19);
             this.groupBox14.Controls.Add(this.pictureBox19);
             this.groupBox14.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.groupBox14.Location = new System.Drawing.Point(21, 4025);
+            this.groupBox14.Location = new System.Drawing.Point(21, 3777);
             this.groupBox14.Name = "groupBox14";
-            this.groupBox14.Size = new System.Drawing.Size(932, 369);
+            this.groupBox14.Size = new System.Drawing.Size(932, 349);
             this.groupBox14.TabIndex = 22;
             this.groupBox14.TabStop = false;
             this.groupBox14.Text = "14) Conceptos básicos";
@@ -921,9 +925,9 @@ namespace Propiedades_de_los_sistemas
             this.pictureBox19.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.pictureBox19.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox19.Image")));
-            this.pictureBox19.Location = new System.Drawing.Point(303, 154);
+            this.pictureBox19.Location = new System.Drawing.Point(418, 148);
             this.pictureBox19.Name = "pictureBox19";
-            this.pictureBox19.Size = new System.Drawing.Size(250, 96);
+            this.pictureBox19.Size = new System.Drawing.Size(250, 184);
             this.pictureBox19.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
             this.pictureBox19.TabIndex = 8;
             this.pictureBox19.TabStop = false;
@@ -957,9 +961,9 @@ namespace Propiedades_de_los_sistemas
             this.pictureBox18.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.pictureBox18.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox18.Image")));
-            this.pictureBox18.Location = new System.Drawing.Point(655, 48);
+            this.pictureBox18.Location = new System.Drawing.Point(656, 58);
             this.pictureBox18.Name = "pictureBox18";
-            this.pictureBox18.Size = new System.Drawing.Size(250, 184);
+            this.pictureBox18.Size = new System.Drawing.Size(250, 157);
             this.pictureBox18.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
             this.pictureBox18.TabIndex = 8;
             this.pictureBox18.TabStop = false;
@@ -993,9 +997,9 @@ namespace Propiedades_de_los_sistemas
             this.pictureBox17.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.pictureBox17.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox17.Image")));
-            this.pictureBox17.Location = new System.Drawing.Point(579, -16);
+            this.pictureBox17.Location = new System.Drawing.Point(580, 11);
             this.pictureBox17.Name = "pictureBox17";
-            this.pictureBox17.Size = new System.Drawing.Size(250, 250);
+            this.pictureBox17.Size = new System.Drawing.Size(250, 188);
             this.pictureBox17.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
             this.pictureBox17.TabIndex = 8;
             this.pictureBox17.TabStop = false;
@@ -1056,7 +1060,7 @@ namespace Propiedades_de_los_sistemas
             this.pictureBox15.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox15.Image")));
             this.pictureBox15.Location = new System.Drawing.Point(632, 28);
             this.pictureBox15.Name = "pictureBox15";
-            this.pictureBox15.Size = new System.Drawing.Size(250, 202);
+            this.pictureBox15.Size = new System.Drawing.Size(250, 188);
             this.pictureBox15.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
             this.pictureBox15.TabIndex = 8;
             this.pictureBox15.TabStop = false;
@@ -1090,9 +1094,9 @@ namespace Propiedades_de_los_sistemas
             this.pictureBox14.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.pictureBox14.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox14.Image")));
-            this.pictureBox14.Location = new System.Drawing.Point(744, 39);
+            this.pictureBox14.Location = new System.Drawing.Point(738, 10);
             this.pictureBox14.Name = "pictureBox14";
-            this.pictureBox14.Size = new System.Drawing.Size(250, 188);
+            this.pictureBox14.Size = new System.Drawing.Size(252, 252);
             this.pictureBox14.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
             this.pictureBox14.TabIndex = 8;
             this.pictureBox14.TabStop = false;
@@ -1308,7 +1312,7 @@ namespace Propiedades_de_los_sistemas
             this.pictureBox8.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox8.Image")));
             this.pictureBox8.Location = new System.Drawing.Point(303, 89);
             this.pictureBox8.Name = "pictureBox8";
-            this.pictureBox8.Size = new System.Drawing.Size(250, 199);
+            this.pictureBox8.Size = new System.Drawing.Size(250, 205);
             this.pictureBox8.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
             this.pictureBox8.TabIndex = 8;
             this.pictureBox8.TabStop = false;
@@ -1466,6 +1470,75 @@ namespace Propiedades_de_los_sistemas
             this.panel3.TabIndex = 7;
             this.panel3.Visible = false;
             // 
+            // combo25
+            // 
+            this.combo25.FormattingEnabled = true;
+            this.combo25.Items.AddRange(new object[] {
+            "de extracción y origen mecánico",
+            "de extracción y origen biológico",
+            "de extracción y origen artificial",
+            "ninguna de las anteriores"});
+            this.combo25.Location = new System.Drawing.Point(34, 1622);
+            this.combo25.Name = "combo25";
+            this.combo25.Size = new System.Drawing.Size(544, 21);
+            this.combo25.TabIndex = 64;
+            // 
+            // label54
+            // 
+            this.label54.AutoSize = true;
+            this.label54.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label54.Location = new System.Drawing.Point(30, 1593);
+            this.label54.Name = "label54";
+            this.label54.Size = new System.Drawing.Size(610, 21);
+            this.label54.TabIndex = 63;
+            this.label54.Text = "25. Según Buckley cual de los siguientes no pertenece a un modelo existente?";
+            // 
+            // combo24
+            // 
+            this.combo24.FormattingEnabled = true;
+            this.combo24.Items.AddRange(new object[] {
+            "obrero y económico",
+            "el psicosocial, técnico y el administrativo",
+            "solo el económico",
+            "solo el administrativo"});
+            this.combo24.Location = new System.Drawing.Point(34, 1557);
+            this.combo24.Name = "combo24";
+            this.combo24.Size = new System.Drawing.Size(544, 21);
+            this.combo24.TabIndex = 62;
+            // 
+            // label55
+            // 
+            this.label55.AutoSize = true;
+            this.label55.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label55.Location = new System.Drawing.Point(30, 1530);
+            this.label55.Name = "label55";
+            this.label55.Size = new System.Drawing.Size(457, 21);
+            this.label55.TabIndex = 61;
+            this.label55.Text = "24. ¿Cuáles son los subsistemas que forman una empresa?";
+            // 
+            // combo23
+            // 
+            this.combo23.FormattingEnabled = true;
+            this.combo23.Items.AddRange(new object[] {
+            "genera emergencias, transforma la realidad y la conserva.",
+            "no se propone hacer posible lo imposible",
+            "no transforma la realidad",
+            "ninguna de las anteriores"});
+            this.combo23.Location = new System.Drawing.Point(34, 1495);
+            this.combo23.Name = "combo23";
+            this.combo23.Size = new System.Drawing.Size(544, 21);
+            this.combo23.TabIndex = 60;
+            // 
+            // label56
+            // 
+            this.label56.AutoSize = true;
+            this.label56.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label56.Location = new System.Drawing.Point(30, 1469);
+            this.label56.Name = "label56";
+            this.label56.Size = new System.Drawing.Size(363, 21);
+            this.label56.TabIndex = 59;
+            this.label56.Text = "23. Una organización es un movimientos que: ";
+            // 
             // combo22
             // 
             this.combo22.FormattingEnabled = true;
@@ -1476,7 +1549,7 @@ namespace Propiedades_de_los_sistemas
             "Ninguna de las anteriores"});
             this.combo22.Location = new System.Drawing.Point(34, 1432);
             this.combo22.Name = "combo22";
-            this.combo22.Size = new System.Drawing.Size(313, 21);
+            this.combo22.Size = new System.Drawing.Size(544, 21);
             this.combo22.TabIndex = 58;
             // 
             // label46
@@ -1500,7 +1573,7 @@ namespace Propiedades_de_los_sistemas
             "La energía sirve para mantener vivo el sistema"});
             this.combo17.Location = new System.Drawing.Point(34, 1111);
             this.combo17.Name = "combo17";
-            this.combo17.Size = new System.Drawing.Size(313, 21);
+            this.combo17.Size = new System.Drawing.Size(544, 21);
             this.combo17.TabIndex = 56;
             // 
             // combo21
@@ -1511,7 +1584,7 @@ namespace Propiedades_de_los_sistemas
             "Falso"});
             this.combo21.Location = new System.Drawing.Point(34, 1367);
             this.combo21.Name = "combo21";
-            this.combo21.Size = new System.Drawing.Size(313, 21);
+            this.combo21.Size = new System.Drawing.Size(544, 21);
             this.combo21.TabIndex = 55;
             // 
             // label47
@@ -1535,7 +1608,7 @@ namespace Propiedades_de_los_sistemas
             "Ninguna de las anteriores "});
             this.combo20.Location = new System.Drawing.Point(34, 1305);
             this.combo20.Name = "combo20";
-            this.combo20.Size = new System.Drawing.Size(313, 21);
+            this.combo20.Size = new System.Drawing.Size(544, 21);
             this.combo20.TabIndex = 53;
             // 
             // label48
@@ -1556,7 +1629,7 @@ namespace Propiedades_de_los_sistemas
             "Falso"});
             this.combo19.Location = new System.Drawing.Point(34, 1243);
             this.combo19.Name = "combo19";
-            this.combo19.Size = new System.Drawing.Size(313, 21);
+            this.combo19.Size = new System.Drawing.Size(544, 21);
             this.combo19.TabIndex = 51;
             // 
             // label49
@@ -1579,7 +1652,7 @@ namespace Propiedades_de_los_sistemas
             "en serie  y recursos de información"});
             this.combo18.Location = new System.Drawing.Point(34, 1178);
             this.combo18.Name = "combo18";
-            this.combo18.Size = new System.Drawing.Size(313, 21);
+            this.combo18.Size = new System.Drawing.Size(544, 21);
             this.combo18.TabIndex = 49;
             // 
             // label50
@@ -1612,7 +1685,7 @@ namespace Propiedades_de_los_sistemas
             "Alemán"});
             this.combo16.Location = new System.Drawing.Point(34, 1049);
             this.combo16.Name = "combo16";
-            this.combo16.Size = new System.Drawing.Size(313, 21);
+            this.combo16.Size = new System.Drawing.Size(544, 21);
             this.combo16.TabIndex = 46;
             // 
             // label52
@@ -1635,7 +1708,7 @@ namespace Propiedades_de_los_sistemas
             "Ninguna de las anteriores"});
             this.combo15.Location = new System.Drawing.Point(34, 991);
             this.combo15.Name = "combo15";
-            this.combo15.Size = new System.Drawing.Size(313, 21);
+            this.combo15.Size = new System.Drawing.Size(544, 21);
             this.combo15.TabIndex = 44;
             // 
             // label53
@@ -1669,7 +1742,7 @@ namespace Propiedades_de_los_sistemas
             "sistema único"});
             this.combo10.Location = new System.Drawing.Point(30, 663);
             this.combo10.Name = "combo10";
-            this.combo10.Size = new System.Drawing.Size(313, 21);
+            this.combo10.Size = new System.Drawing.Size(548, 21);
             this.combo10.TabIndex = 41;
             // 
             // combo14
@@ -1682,7 +1755,7 @@ namespace Propiedades_de_los_sistemas
             "Para contribuir con las ciencias aplicadas "});
             this.combo14.Location = new System.Drawing.Point(30, 919);
             this.combo14.Name = "combo14";
-            this.combo14.Size = new System.Drawing.Size(313, 21);
+            this.combo14.Size = new System.Drawing.Size(548, 21);
             this.combo14.TabIndex = 40;
             // 
             // label38
@@ -1705,7 +1778,7 @@ namespace Propiedades_de_los_sistemas
             "Celula animal, Celula vegetal "});
             this.combo13.Location = new System.Drawing.Point(30, 857);
             this.combo13.Name = "combo13";
-            this.combo13.Size = new System.Drawing.Size(313, 21);
+            this.combo13.Size = new System.Drawing.Size(548, 21);
             this.combo13.TabIndex = 38;
             // 
             // label39
@@ -1729,7 +1802,7 @@ namespace Propiedades_de_los_sistemas
             "Según su naturalidad"});
             this.combo12.Location = new System.Drawing.Point(30, 795);
             this.combo12.Name = "combo12";
-            this.combo12.Size = new System.Drawing.Size(313, 21);
+            this.combo12.Size = new System.Drawing.Size(548, 21);
             this.combo12.TabIndex = 36;
             // 
             // label40
@@ -1750,7 +1823,7 @@ namespace Propiedades_de_los_sistemas
             "Falso"});
             this.combo11.Location = new System.Drawing.Point(30, 730);
             this.combo11.Name = "combo11";
-            this.combo11.Size = new System.Drawing.Size(313, 21);
+            this.combo11.Size = new System.Drawing.Size(548, 21);
             this.combo11.TabIndex = 34;
             // 
             // label41
@@ -1785,7 +1858,7 @@ namespace Propiedades_de_los_sistemas
             "Las partes, los componentes y los lados."});
             this.combo9.Location = new System.Drawing.Point(30, 602);
             this.combo9.Name = "combo9";
-            this.combo9.Size = new System.Drawing.Size(313, 21);
+            this.combo9.Size = new System.Drawing.Size(548, 21);
             this.combo9.TabIndex = 31;
             // 
             // label43
@@ -1812,7 +1885,7 @@ namespace Propiedades_de_los_sistemas
                 "es y análisis de la conveniencia de resultados."});
             this.combo8.Location = new System.Drawing.Point(30, 544);
             this.combo8.Name = "combo8";
-            this.combo8.Size = new System.Drawing.Size(313, 21);
+            this.combo8.Size = new System.Drawing.Size(736, 21);
             this.combo8.TabIndex = 29;
             // 
             // label44
@@ -1834,7 +1907,7 @@ namespace Propiedades_de_los_sistemas
             "Falso"});
             this.combo3.Location = new System.Drawing.Point(30, 223);
             this.combo3.Name = "combo3";
-            this.combo3.Size = new System.Drawing.Size(313, 21);
+            this.combo3.Size = new System.Drawing.Size(548, 21);
             this.combo3.TabIndex = 27;
             // 
             // combo7
@@ -1845,7 +1918,7 @@ namespace Propiedades_de_los_sistemas
             "Falso"});
             this.combo7.Location = new System.Drawing.Point(30, 479);
             this.combo7.Name = "combo7";
-            this.combo7.Size = new System.Drawing.Size(313, 21);
+            this.combo7.Size = new System.Drawing.Size(548, 21);
             this.combo7.TabIndex = 26;
             // 
             // label37
@@ -1870,7 +1943,7 @@ namespace Propiedades_de_los_sistemas
             "Un sistema es un conjunto de sistemas gastronómico"});
             this.combo6.Location = new System.Drawing.Point(30, 417);
             this.combo6.Name = "combo6";
-            this.combo6.Size = new System.Drawing.Size(313, 21);
+            this.combo6.Size = new System.Drawing.Size(548, 21);
             this.combo6.TabIndex = 24;
             // 
             // label36
@@ -1893,7 +1966,7 @@ namespace Propiedades_de_los_sistemas
             "Significa que la entrada es correcta y dentro del proceso se daña."});
             this.combo5.Location = new System.Drawing.Point(30, 355);
             this.combo5.Name = "combo5";
-            this.combo5.Size = new System.Drawing.Size(313, 21);
+            this.combo5.Size = new System.Drawing.Size(548, 21);
             this.combo5.TabIndex = 22;
             // 
             // label35
@@ -1916,7 +1989,7 @@ namespace Propiedades_de_los_sistemas
             "Ecosistema, ciclo del agua"});
             this.combo4.Location = new System.Drawing.Point(30, 290);
             this.combo4.Name = "combo4";
-            this.combo4.Size = new System.Drawing.Size(313, 21);
+            this.combo4.Size = new System.Drawing.Size(548, 21);
             this.combo4.TabIndex = 20;
             // 
             // label34
@@ -1951,7 +2024,7 @@ namespace Propiedades_de_los_sistemas
             "Cibernética"});
             this.combo2.Location = new System.Drawing.Point(30, 161);
             this.combo2.Name = "combo2";
-            this.combo2.Size = new System.Drawing.Size(313, 21);
+            this.combo2.Size = new System.Drawing.Size(548, 21);
             this.combo2.TabIndex = 16;
             // 
             // label32
@@ -1974,7 +2047,7 @@ namespace Propiedades_de_los_sistemas
             "Ninguna de las anteriores"});
             this.combo1.Location = new System.Drawing.Point(30, 103);
             this.combo1.Name = "combo1";
-            this.combo1.Size = new System.Drawing.Size(313, 21);
+            this.combo1.Size = new System.Drawing.Size(548, 21);
             this.combo1.TabIndex = 14;
             // 
             // label31
@@ -2045,74 +2118,29 @@ namespace Propiedades_de_los_sistemas
             this.pictureBox5.TabIndex = 9;
             this.pictureBox5.TabStop = false;
             // 
-            // combo25
+            // label57
             // 
-            this.combo25.FormattingEnabled = true;
-            this.combo25.Items.AddRange(new object[] {
-            "de extracción y origen mecánico",
-            "de extracción y origen biológico",
-            "de extracción y origen artificial",
-            "ninguna de las anteriores"});
-            this.combo25.Location = new System.Drawing.Point(34, 1622);
-            this.combo25.Name = "combo25";
-            this.combo25.Size = new System.Drawing.Size(313, 21);
-            this.combo25.TabIndex = 64;
+            this.label57.AutoSize = true;
+            this.label57.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label57.Location = new System.Drawing.Point(435, 7756);
+            this.label57.Name = "label57";
+            this.label57.Size = new System.Drawing.Size(495, 63);
+            this.label57.TabIndex = 43;
+            this.label57.Text = "Ahora puede proceder a contestar el cuestionario en el botón\r\n\"iniciar cuestionar" +
+    "io\"\r\n_";
+            this.label57.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // label54
+            // label58
             // 
-            this.label54.AutoSize = true;
-            this.label54.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label54.Location = new System.Drawing.Point(30, 1593);
-            this.label54.Name = "label54";
-            this.label54.Size = new System.Drawing.Size(610, 21);
-            this.label54.TabIndex = 63;
-            this.label54.Text = "25. Según Buckley cual de los siguientes no pertenece a un modelo existente?";
-            // 
-            // combo24
-            // 
-            this.combo24.FormattingEnabled = true;
-            this.combo24.Items.AddRange(new object[] {
-            "obrero y económico",
-            "el psicosocial, técnico y el administrativo",
-            "solo el económico",
-            "solo el administrativo"});
-            this.combo24.Location = new System.Drawing.Point(34, 1557);
-            this.combo24.Name = "combo24";
-            this.combo24.Size = new System.Drawing.Size(313, 21);
-            this.combo24.TabIndex = 62;
-            // 
-            // label55
-            // 
-            this.label55.AutoSize = true;
-            this.label55.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label55.Location = new System.Drawing.Point(30, 1530);
-            this.label55.Name = "label55";
-            this.label55.Size = new System.Drawing.Size(457, 21);
-            this.label55.TabIndex = 61;
-            this.label55.Text = "24. ¿Cuáles son los subsistemas que forman una empresa?";
-            // 
-            // combo23
-            // 
-            this.combo23.FormattingEnabled = true;
-            this.combo23.Items.AddRange(new object[] {
-            "genera emergencias, transforma la realidad y la conserva.",
-            "no se propone hacer posible lo imposible",
-            "no transforma la realidad",
-            "ninguna de las anteriores"});
-            this.combo23.Location = new System.Drawing.Point(34, 1495);
-            this.combo23.Name = "combo23";
-            this.combo23.Size = new System.Drawing.Size(313, 21);
-            this.combo23.TabIndex = 60;
-            // 
-            // label56
-            // 
-            this.label56.AutoSize = true;
-            this.label56.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label56.Location = new System.Drawing.Point(30, 1469);
-            this.label56.Name = "label56";
-            this.label56.Size = new System.Drawing.Size(363, 21);
-            this.label56.TabIndex = 59;
-            this.label56.Text = "23. Una organización es un movimientos que: ";
+            this.label58.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.label58.AutoSize = true;
+            this.label58.Font = new System.Drawing.Font("Century Gothic", 14.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label58.ForeColor = System.Drawing.Color.White;
+            this.label58.Location = new System.Drawing.Point(26, 598);
+            this.label58.Name = "label58";
+            this.label58.Size = new System.Drawing.Size(164, 88);
+            this.label58.TabIndex = 12;
+            this.label58.Text = "Hecho por:\r\nDiego Corredor\r\nRobinson Aguilar\r\nLaura Granados";
             // 
             // Form1
             // 
@@ -2120,6 +2148,7 @@ namespace Propiedades_de_los_sistemas
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(216)))), ((int)(((byte)(221)))), ((int)(((byte)(239)))));
             this.ClientSize = new System.Drawing.Size(1341, 695);
+            this.Controls.Add(this.panel3);
             this.Controls.Add(this.btnTerminar);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.btnCuestionario);
@@ -2127,7 +2156,6 @@ namespace Propiedades_de_los_sistemas
             this.Controls.Add(this.label6);
             this.Controls.Add(this.lblNombre);
             this.Controls.Add(this.panel1);
-            this.Controls.Add(this.panel3);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
@@ -2373,6 +2401,8 @@ namespace Propiedades_de_los_sistemas
         private System.Windows.Forms.Label label55;
         private System.Windows.Forms.ComboBox combo23;
         private System.Windows.Forms.Label label56;
+        private System.Windows.Forms.Label label57;
+        private System.Windows.Forms.Label label58;
     }
 }
 
